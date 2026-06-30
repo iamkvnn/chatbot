@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+markdownify
+python-slugify
+python-dotenv
+tiktoken
+google-genai
