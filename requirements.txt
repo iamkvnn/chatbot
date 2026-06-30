@@ -5,3 +5,4 @@ python-slugify
 python-dotenv
 tiktoken
 google-genai
+boto3

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T20:23:21+00:00",
+  "generated_at": "2026-06-30T22:34:26+00:00",
   "scrape": {
     "files_scraped": 30,
     "chunks_created": 113,
@@ -8,7 +8,7 @@
     }
   },
   "upload": {
-    "generated_at": "2026-06-30T20:23:21+00:00",
+    "generated_at": "2026-06-30T22:34:26+00:00",
     "provider": "Google Gemini",
     "file_search_store_name": "fileSearchStores/chatbotsupportdocs-8h91wdcbk8y9",
     "source_article_files": 30,
@@ -387,5 +387,6 @@
         "uploaded_chunks": 0
       }
     ]
-  }
+  },
+  "last_run_artifact_url": "https://chatbottest.sgp1.digitaloceanspaces.com/chatbot/last_run.json"
 }

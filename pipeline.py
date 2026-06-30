@@ -5,6 +5,7 @@ from typing import Any
 from gemini_uploader import upload_manifest_delta
 from scraper import scrape_articles
 from settings import LAST_RUN_PATH
+from spaces_uploader import last_run_artifact_url, upload_last_run_artifact
 from storage import now_iso, write_json
 
 
@@ -21,5 +22,11 @@ def run_pipeline() -> dict[str, Any]:
         },
         "upload": upload_log,
     }
+    artifact_url = last_run_artifact_url(LAST_RUN_PATH)
+    if artifact_url:
+        run_log["last_run_artifact_url"] = artifact_url
+
     write_json(LAST_RUN_PATH, run_log)
+    if artifact_url:
+        upload_last_run_artifact(LAST_RUN_PATH)
     return run_log

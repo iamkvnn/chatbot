@@ -17,6 +17,20 @@ Create `.env`:
 
 ```env
 GEMINI_API_KEY=your_key_here
+
+# Optional public last-run artefact on DigitalOcean Spaces
+DO_SPACES_KEY=your_spaces_access_key
+DO_SPACES_SECRET=your_spaces_secret_key
+DO_SPACES_BUCKET=your_bucket_name
+DO_SPACES_REGION=sgp1
+DO_SPACES_PREFIX=chatbot
+DO_SPACES_PUBLIC_BASE_URL=https://your_bucket_name.sgp1.digitaloceanspaces.com
+```
+
+If the DigitalOcean Spaces variables are set, each `python main.py` run uploads `data/last_run.json` to:
+
+```text
+https://<bucket>.<region>.digitaloceanspaces.com/<prefix>/last_run.json
 ```
 
 ## Run Locally
@@ -62,10 +76,8 @@ Delta upload is stateless. The job compares local `chunk_hash` values with chunk
 
 ## Last Run Log
 
-Latest artefact:
-
 ```text
-https://github.com/iamkvnn/chatbot/blob/main/data/last_run.json
+https://chatbottest.sgp1.digitaloceanspaces.com/chatbot/last_run.json
 ```
 
 ## Assistant Screenshot
