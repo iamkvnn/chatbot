@@ -61,11 +61,18 @@ python test_assistant.py "How do I add a YouTube video?"
 - Articles are fetched from the Zendesk Help Center API with `per_page=30`.
 - HTML is cleaned and converted to Markdown.
 - Internal support links are preserved as relative links.
-- Headings, code blocks, and `Article URL` metadata are kept.
-- Manual chunk target: `430` content tokens.
-- Manual overlap: `40` tokens.
+- Each chunk prepends the article title, `Article URL`, source file, and chunk number so retrieved context can still cite the source.
+- Chunks are split on Markdown blocks, with fenced code blocks preserved and oversized prose blocks split by sentence.
+- Local chunk target: `430` content tokens.
+- Local overlap: `40` tokens.
 - Gemini upload chunk limit: `512` tokens.
 - Gemini upload overlap: `50` tokens.
+
+Local chunking is kept intentionally instead of uploading whole articles only:
+
+- It lets the job upload, skip, delete, or replace only changed chunks instead of re-uploading whole articles.
+- It repeats `Article URL` in every uploaded chunk, which makes source citation more reliable.
+- The `430` token local target leaves room for the chunk header and stays under Gemini's `512` token upload chunk size in normal cases. Gemini's `512`/`50` `chunking_config` remains as a safety guard if an uploaded chunk is still too large.
 
 Delta upload is stateless. The job compares local `chunk_hash` values with chunk metadata already stored in Gemini:
 
@@ -80,7 +87,7 @@ Delta upload is stateless. The job compares local `chunk_hash` values with chunk
 https://chatbottest.sgp1.digitaloceanspaces.com/chatbot/last_run.json
 ```
 
-## Assistant Screenshot
+## Assistant Screenshots
 
 Sample question:
 
@@ -89,3 +96,13 @@ How do I add a YouTube video?
 ```
 
 ![Assistant sample answer](screenshots/test_assistant.png)
+
+Some more test questions:
+```text
+How to re-encode video files?
+```
+![Assistant re-encode video answer](screenshots/test_assistant-How%20to%20re-encode%20video%20files.png)
+```text
+How Can I Remove, Delete Uploaded Files or Assets?
+```
+![Assistant remove uploaded files answer](<screenshots/test_assistant - How Can I Remove, Delete Uploaded Files or Assets.png>)

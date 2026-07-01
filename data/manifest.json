@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-30T22:34:18+00:00",
+  "generated_at": "2026-07-01T09:04:22+00:00",
   "source": "https://support.optisigns.com/api/v2/help_center/articles.json",
   "files_scraped": 30,
-  "chunks_created": 113,
+  "chunks_created": 106,
   "counts": {
     "scraped": 30
   },
@@ -17,25 +17,18 @@
       "title": "My image, content are bleeding off the screens with Fire TV (need screen calibration)",
       "url": "https://support.optisigns.com/hc/en-us/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration",
       "updated_at": "2026-06-30T11:34:58Z",
-      "file": "data/articles/my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration-360035538093.md",
-      "tokens": 492,
-      "hash": "5b959df6e051b5d13823c5982d286071360fa3ef7f5041fc46f7e559fd1efee8",
+      "file": "data/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration.md",
+      "tokens": 474,
+      "hash": "41ef09aa823dd917c1caec250364d0da1fa03b1c0a9164ba8afe4e7f425f6991",
       "status": "scraped",
-      "chunks_count": 2,
+      "chunks_count": 1,
       "chunks": [
         {
-          "file": "data/chunks/my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration-360035538093__chunk_001.md",
-          "tokens": 491,
-          "hash": "7b451ba88854f4fb418e3dd7a98425259b131b040d8c1f196d83051afbfac048",
+          "file": "data/chunks/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration__chunk_001.md",
+          "tokens": 504,
+          "hash": "3654b7a9f63c480062b17fba2dffd91845e228a5c701974ef57a772be338b482",
           "chunk_index": 1,
-          "chunk_count": 2
-        },
-        {
-          "file": "data/chunks/my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration-360035538093__chunk_002.md",
-          "tokens": 197,
-          "hash": "f4df4607c7bfbb6e3aa2c29613f29662a1c186c5305e6c32dda6a370e40a0240",
-          "chunk_index": 2,
-          "chunk_count": 2
+          "chunk_count": 1
         }
       ]
     },
@@ -44,51 +37,51 @@
       "title": "AI Camera App - Quick Start",
       "url": "https://support.optisigns.com/hc/en-us/articles/27690296225555-AI-Camera-App-Quick-Start",
       "updated_at": "2026-06-29T19:26:02Z",
-      "file": "data/articles/ai-camera-app-quick-start-27690296225555.md",
-      "tokens": 2046,
-      "hash": "20902280b9f3deb0e9a5b8c47d5db2344814c79e8299dc8913966cdf39fb7c37",
+      "file": "data/articles/27690296225555-AI-Camera-App-Quick-Start.md",
+      "tokens": 2028,
+      "hash": "e7ab0512839e9575a207aee086f4714eb21756a69bf5dcce9da426ddaabd38eb",
       "status": "scraped",
       "chunks_count": 6,
       "chunks": [
         {
-          "file": "data/chunks/ai-camera-app-quick-start-27690296225555__chunk_001.md",
+          "file": "data/chunks/27690296225555-AI-Camera-App-Quick-Start__chunk_001.md",
           "tokens": 480,
-          "hash": "87934509aa0494e54b573cd860d85b043b02ea776197a8e8b1b54da564eeff48",
+          "hash": "ed871779f1d4d97ab4e1f9d7caf516d7b6febfe69af260af8cbf061d76a76aad",
           "chunk_index": 1,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/ai-camera-app-quick-start-27690296225555__chunk_002.md",
-          "tokens": 311,
-          "hash": "61db122e15696e22cfaaf52286eb6508f0b7f0c7589c20dea9af06efd12e01f8",
+          "file": "data/chunks/27690296225555-AI-Camera-App-Quick-Start__chunk_002.md",
+          "tokens": 250,
+          "hash": "a913b413cabe36c3b580b252237866e534d2e103f2126ffcd2b8b82635e08ac2",
           "chunk_index": 2,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/ai-camera-app-quick-start-27690296225555__chunk_003.md",
-          "tokens": 486,
-          "hash": "f2109f3d8c5943357c82ec903ab1e6a85674f88e34b5b769c907826cf89d1070",
+          "file": "data/chunks/27690296225555-AI-Camera-App-Quick-Start__chunk_003.md",
+          "tokens": 489,
+          "hash": "13ba5453b49445c91bdc50dbb77d67b556c0087cf77f48f00d72f7712a47114b",
           "chunk_index": 3,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/ai-camera-app-quick-start-27690296225555__chunk_004.md",
-          "tokens": 490,
-          "hash": "6eb9cc109fb28aa849902f965df86305904adda0f345b523087aac79b75c4495",
+          "file": "data/chunks/27690296225555-AI-Camera-App-Quick-Start__chunk_004.md",
+          "tokens": 493,
+          "hash": "e1f756ef537b76a4f4a27ca37df408eb66434865953d1ca886efb96a191fbd5f",
           "chunk_index": 4,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/ai-camera-app-quick-start-27690296225555__chunk_005.md",
-          "tokens": 415,
-          "hash": "f043722207219d9a12c2e75cf69a65a49a72f3d959cf5ff2449c112d549f561d",
+          "file": "data/chunks/27690296225555-AI-Camera-App-Quick-Start__chunk_005.md",
+          "tokens": 418,
+          "hash": "513ff8aacc3057114c9765f875d49194e3280f223d7c9567987b9eca23e12949",
           "chunk_index": 5,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/ai-camera-app-quick-start-27690296225555__chunk_006.md",
-          "tokens": 335,
-          "hash": "37c71ee570a9f21c7cf51c534cf5678f16d6bb908013e88d0b87a0185adb3693",
+          "file": "data/chunks/27690296225555-AI-Camera-App-Quick-Start__chunk_006.md",
+          "tokens": 338,
+          "hash": "256651579378a71fab61b3516afae29443a0eaae2555f3b3cc1082f54f629a6e",
           "chunk_index": 6,
           "chunk_count": 6
         }
@@ -99,23 +92,23 @@
       "title": "Engage Plan - FAQs",
       "url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
       "updated_at": "2026-06-29T19:25:18Z",
-      "file": "data/articles/engage-plan-faqs-23565267463315.md",
-      "tokens": 706,
-      "hash": "1b6df98df5faf15be30c80789a1330e9cb839f00880df807c40b6d5379a90694",
+      "file": "data/articles/23565267463315-Engage-Plan-FAQs.md",
+      "tokens": 688,
+      "hash": "1ebd2b51c4bd953bc01587801648469b6fe1bb4e047c7f2f9e2561c156bb0cd3",
       "status": "scraped",
       "chunks_count": 2,
       "chunks": [
         {
-          "file": "data/chunks/engage-plan-faqs-23565267463315__chunk_001.md",
-          "tokens": 481,
-          "hash": "2518c4aeab7eeb86c98e8799485809eadd3aeece36c21fadac2d7251f8ca87d9",
+          "file": "data/chunks/23565267463315-Engage-Plan-FAQs__chunk_001.md",
+          "tokens": 475,
+          "hash": "67d414c9b6190f6d0166a46a70730096e12f843cf40bf6d3d35288a3c543553e",
           "chunk_index": 1,
           "chunk_count": 2
         },
         {
-          "file": "data/chunks/engage-plan-faqs-23565267463315__chunk_002.md",
-          "tokens": 374,
-          "hash": "b89e9c56b9395002673c9b9631723c775a7710c453fc2115e33837d7e8c1c152",
+          "file": "data/chunks/23565267463315-Engage-Plan-FAQs__chunk_002.md",
+          "tokens": 322,
+          "hash": "9122d228ce596c0b8d5f8f530ccd73f90e20fcc3666a927fd14d7a291a48f2de",
           "chunk_index": 2,
           "chunk_count": 2
         }
@@ -126,16 +119,16 @@
       "title": "How to re-encode video files for better compatibility on your devices",
       "url": "https://support.optisigns.com/hc/en-us/articles/360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices",
       "updated_at": "2026-06-29T19:08:36Z",
-      "file": "data/articles/how-to-re-encode-video-files-for-better-compatibility-on-your-devices-360042143753.md",
-      "tokens": 432,
-      "hash": "72d362a2831187e1c0fe4491b571efc1b493a171ffe8b91c3877b5bb48b93bf0",
+      "file": "data/articles/360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices.md",
+      "tokens": 414,
+      "hash": "4c81cc97781c58734872decc7c22d11b4ec150fb8e8b5c9ade574fc4e3c2d3af",
       "status": "scraped",
       "chunks_count": 1,
       "chunks": [
         {
-          "file": "data/chunks/how-to-re-encode-video-files-for-better-compatibility-on-your-devices-360042143753__chunk_001.md",
-          "tokens": 520,
-          "hash": "6cf32f2a5bb005772dd9f961fb77cfdd080361be2b4c0f2a231806362ae15514",
+          "file": "data/chunks/360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices__chunk_001.md",
+          "tokens": 440,
+          "hash": "4a966459dc4b9310d3922a287a158df7f60549e24dfe487677d1b070fcd99c77",
           "chunk_index": 1,
           "chunk_count": 1
         }
@@ -146,16 +139,16 @@
       "title": "How to Enable/Disable Auto Update for OptiSigns app on Fire TV",
       "url": "https://support.optisigns.com/hc/en-us/articles/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV",
       "updated_at": "2026-06-28T17:13:26Z",
-      "file": "data/articles/how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv-360055328454.md",
-      "tokens": 351,
-      "hash": "3fba887596fa979cbdc97901bfaea5432a4fe16bdf26f75840f853725269c46c",
+      "file": "data/articles/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV.md",
+      "tokens": 333,
+      "hash": "20283abf93867b930161da9db9dbb70ccf522ef11a90b1844cb78ffd0128d6f4",
       "status": "scraped",
       "chunks_count": 1,
       "chunks": [
         {
-          "file": "data/chunks/how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv-360055328454__chunk_001.md",
-          "tokens": 441,
-          "hash": "80afd87ec28bd286fbd40ba9b47138b177bb2e33e2059501567328bc6c91dba4",
+          "file": "data/chunks/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV__chunk_001.md",
+          "tokens": 362,
+          "hash": "beb48adcd23ee6c59cd2032f60e6f609f4b400ffb0dc7c1a5cfe4396cffce842",
           "chunk_index": 1,
           "chunk_count": 1
         }
@@ -166,16 +159,16 @@
       "title": "How Can I Remove/Delete Uploaded Files or Assets?",
       "url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
       "updated_at": "2026-06-26T20:54:46Z",
-      "file": "data/articles/how-can-i-remove-delete-uploaded-files-or-assets-360025661053.md",
-      "tokens": 184,
-      "hash": "6a11719a4a53c9baa2e0b254d7cd54258abade40ec3c51e5151f2f2393e4d14d",
+      "file": "data/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets.md",
+      "tokens": 166,
+      "hash": "7a8eaf19d5f476f117df857edb523a7116ecd9eee33cc673967f08cc8f1c0134",
       "status": "scraped",
       "chunks_count": 1,
       "chunks": [
         {
-          "file": "data/chunks/how-can-i-remove-delete-uploaded-files-or-assets-360025661053__chunk_001.md",
-          "tokens": 259,
-          "hash": "bcab88e3c9b16ea45d2f3a56c6fec43f6c795e085252a2e6f17149041631d2ca",
+          "file": "data/chunks/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets__chunk_001.md",
+          "tokens": 190,
+          "hash": "48bae6fe7f2d9fa4475269878d48074ee3a20ee5f740be583a3f097cbcb06adc",
           "chunk_index": 1,
           "chunk_count": 1
         }
@@ -186,30 +179,30 @@
       "title": "How to Share Playlist and Folder with External Users",
       "url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users",
       "updated_at": "2026-06-26T13:56:08Z",
-      "file": "data/articles/how-to-share-playlist-and-folder-with-external-users-21708242980755.md",
-      "tokens": 1159,
-      "hash": "788b5c98d8ea5014b5dc7b33500aa4ca0dfa05451df00ba512adaa4d3042dd88",
+      "file": "data/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users.md",
+      "tokens": 1141,
+      "hash": "8e5325105b8ccf9d3a627bda7f24124a27850a8921b258a0a6bff7a85da8e802",
       "status": "scraped",
       "chunks_count": 3,
       "chunks": [
         {
-          "file": "data/chunks/how-to-share-playlist-and-folder-with-external-users-21708242980755__chunk_001.md",
-          "tokens": 458,
-          "hash": "86d3c7a4b87f105a8ddffc13290124112c3bbf3b4bc9206bad44b8eefd881238",
+          "file": "data/chunks/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users__chunk_001.md",
+          "tokens": 386,
+          "hash": "9a78fddeb5c20863ac038ebc0944214b8a1f0057ad434f9e1995ba549cb4dc5c",
           "chunk_index": 1,
           "chunk_count": 3
         },
         {
-          "file": "data/chunks/how-to-share-playlist-and-folder-with-external-users-21708242980755__chunk_002.md",
-          "tokens": 507,
-          "hash": "6d14aaaeeb727c67482c62d393e6854883d465172cab10a0d2d710717bc68f17",
+          "file": "data/chunks/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users__chunk_002.md",
+          "tokens": 511,
+          "hash": "cddeac2f7756c2e239a0809eb112e90ba102379f004ac2454a1d59e0448e0558",
           "chunk_index": 2,
           "chunk_count": 3
         },
         {
-          "file": "data/chunks/how-to-share-playlist-and-folder-with-external-users-21708242980755__chunk_003.md",
-          "tokens": 442,
-          "hash": "ae6516add7940c1f57351d90583022b27cc63cfc893782234d2e37ee2bfda1ba",
+          "file": "data/chunks/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users__chunk_003.md",
+          "tokens": 446,
+          "hash": "8307f4d146991d2c455aeec2701d497fa1786762bbf317075d2b5ed53812a588",
           "chunk_index": 3,
           "chunk_count": 3
         }
@@ -220,88 +213,81 @@
       "title": "OptiStick Troubleshooting Guide",
       "url": "https://support.optisigns.com/hc/en-us/articles/40147900639891-OptiStick-Troubleshooting-Guide",
       "updated_at": "2026-06-26T13:52:36Z",
-      "file": "data/articles/optistick-troubleshooting-guide-40147900639891.md",
-      "tokens": 3822,
-      "hash": "068260ea9e2e9e2148b06508e276d4fd2211bd1e81f9c8929f8f501597a7a099",
+      "file": "data/articles/40147900639891-OptiStick-Troubleshooting-Guide.md",
+      "tokens": 3804,
+      "hash": "2b59c1a6d9e1635347fd83d9b3ebc8a6ddb428419a5ac66b51f56df8e183a464",
       "status": "scraped",
-      "chunks_count": 11,
+      "chunks_count": 10,
       "chunks": [
         {
-          "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_001.md",
-          "tokens": 495,
-          "hash": "679e48acfafa5d69b1b615aa038fc484bdcf560803573eda7245f90dd447db76",
+          "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_001.md",
+          "tokens": 488,
+          "hash": "cc720f98c92479354620ef021e9894af5b31bfcec4603f88591349cc81b1cd66",
           "chunk_index": 1,
-          "chunk_count": 11
+          "chunk_count": 10
         },
         {
-          "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_002.md",
-          "tokens": 484,
-          "hash": "b875a4fad88c4771b4135cf735d6afffe4b78cd153b25b26c0988e81487ca5f4",
-          "chunk_index": 2,
-          "chunk_count": 11
-        },
-        {
-          "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_003.md",
-          "tokens": 125,
-          "hash": "785d432b716deb3dc78175cd3f146f41994536d7f29b508eb3739e2de7576399",
-          "chunk_index": 3,
-          "chunk_count": 11
-        },
-        {
-          "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_004.md",
-          "tokens": 499,
-          "hash": "03767c503356cb8b6b251fec1e9d74de524aea3f413d2e1c2379098d85464402",
-          "chunk_index": 4,
-          "chunk_count": 11
-        },
-        {
-          "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_005.md",
-          "tokens": 478,
-          "hash": "6f139c24496c3ff6294669ff1c6165af5c94f20b363f059f25fead4f09437051",
-          "chunk_index": 5,
-          "chunk_count": 11
-        },
-        {
-          "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_006.md",
-          "tokens": 460,
-          "hash": "6155303bbedd18fd9d1d3b428462763949fadfcbaf7f72c21217187bdfd9889a",
-          "chunk_index": 6,
-          "chunk_count": 11
-        },
-        {
-          "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_007.md",
-          "tokens": 495,
-          "hash": "bea022bf0e6047dbbd2b080eca75025270cefea0f9f920880dd6bb3242a84b65",
-          "chunk_index": 7,
-          "chunk_count": 11
-        },
-        {
-          "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_008.md",
+          "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_002.md",
           "tokens": 468,
-          "hash": "d37c8ccf70477557edddfaa34302e7eead74f538f847ceb9b50f896eb889cb96",
-          "chunk_index": 8,
-          "chunk_count": 11
+          "hash": "39cee32df03414156d29ae658304ff36fc9a7fa0693eca9ad2d12fe8e4f4912f",
+          "chunk_index": 2,
+          "chunk_count": 10
         },
         {
-          "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_009.md",
-          "tokens": 445,
-          "hash": "f5be1ffee0ec60de450ede3c47620ded677a98f9e90e2ec5833f2910e498a1b7",
-          "chunk_index": 9,
-          "chunk_count": 11
-        },
-        {
-          "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_010.md",
+          "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_003.md",
           "tokens": 502,
-          "hash": "fb405c8282e1ec465c23045a869f317c95d481095e695ea9cc07ca8485db0be2",
-          "chunk_index": 10,
-          "chunk_count": 11
+          "hash": "0954f73b442d8fbfb5d2ba2a0c696120f46eb2d0df5d2ee6e490b9ac23cc3669",
+          "chunk_index": 3,
+          "chunk_count": 10
         },
         {
-          "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_011.md",
-          "tokens": 323,
-          "hash": "6777771d4b3bb21aeb689d76a66698a9f4b6c49f0546a2c3696728ffd4d67a18",
-          "chunk_index": 11,
-          "chunk_count": 11
+          "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_004.md",
+          "tokens": 481,
+          "hash": "cd24b457a7ba336ef6e5fcae9241d03754bde4a180c37f021f5471586d683eea",
+          "chunk_index": 4,
+          "chunk_count": 10
+        },
+        {
+          "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_005.md",
+          "tokens": 463,
+          "hash": "a27ece7945d058b690694c7c9e980f1faf15ef5b38e3e71b55aa38dc274997f3",
+          "chunk_index": 5,
+          "chunk_count": 10
+        },
+        {
+          "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_006.md",
+          "tokens": 498,
+          "hash": "7e9e559fb53cf81bf4b7cbf1e0662232a1faefa45b952351746565b4d2dc6b94",
+          "chunk_index": 6,
+          "chunk_count": 10
+        },
+        {
+          "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_007.md",
+          "tokens": 471,
+          "hash": "5366c6116d67886501cc221be1ce46e969cf0abc517daacb23f16344f450f963",
+          "chunk_index": 7,
+          "chunk_count": 10
+        },
+        {
+          "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_008.md",
+          "tokens": 448,
+          "hash": "c6657686fa3d097aa835f6c55539bcb495066e89b777736ee18a2cfcf9d1621b",
+          "chunk_index": 8,
+          "chunk_count": 10
+        },
+        {
+          "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_009.md",
+          "tokens": 505,
+          "hash": "a77241f9af4c62710b85ca870919ab43a100625a5e4808ddc0f40c444331dc48",
+          "chunk_index": 9,
+          "chunk_count": 10
+        },
+        {
+          "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_010.md",
+          "tokens": 326,
+          "hash": "2ec32640f4b65a0df49a3cfb54789f0cda79bca5111c7329015d50a7538f6b4f",
+          "chunk_index": 10,
+          "chunk_count": 10
         }
       ]
     },
@@ -310,37 +296,37 @@
       "title": "OptiStick",
       "url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
       "updated_at": "2026-06-26T13:51:49Z",
-      "file": "data/articles/optistick-27267311796243.md",
-      "tokens": 1399,
-      "hash": "907f92ca1b089d5643e66f12ed7f596ec1225150aa5e673faf9a4df3e2c9165f",
+      "file": "data/articles/27267311796243-OptiStick.md",
+      "tokens": 1381,
+      "hash": "35c78ed87a4b59e1e6e3d6028947a5c8089850a4c7f93d78dae1ee703847075e",
       "status": "scraped",
       "chunks_count": 4,
       "chunks": [
         {
-          "file": "data/chunks/optistick-27267311796243__chunk_001.md",
-          "tokens": 466,
-          "hash": "28bd15ecf19cd4e1d703f481eff4c649b519ab495bdeea535ce3eb31e6c2bb2b",
+          "file": "data/chunks/27267311796243-OptiStick__chunk_001.md",
+          "tokens": 449,
+          "hash": "ef772009f4e9a2d83cb6107bcac41aad589ee55de7751428e83499e85612bf97",
           "chunk_index": 1,
           "chunk_count": 4
         },
         {
-          "file": "data/chunks/optistick-27267311796243__chunk_002.md",
-          "tokens": 474,
-          "hash": "3a66c64da9eea018f988bc5eaa54587e279a03565bd14cf9fb29b45ba45b3626",
+          "file": "data/chunks/27267311796243-OptiStick__chunk_002.md",
+          "tokens": 475,
+          "hash": "582866cdaf963efe689678caeeef92f24cea123dbf4cf50c463219516e6217b3",
           "chunk_index": 2,
           "chunk_count": 4
         },
         {
-          "file": "data/chunks/optistick-27267311796243__chunk_003.md",
-          "tokens": 415,
-          "hash": "16e0aaec5a8e17f04aaa3640d29d83a4a06001f14773eefad60d0033bc1803b9",
+          "file": "data/chunks/27267311796243-OptiStick__chunk_003.md",
+          "tokens": 416,
+          "hash": "e2aec2a463743ffc8dedc84528d0d5caead2dd02b2ae3336bed85f283dadbd21",
           "chunk_index": 3,
           "chunk_count": 4
         },
         {
-          "file": "data/chunks/optistick-27267311796243__chunk_004.md",
-          "tokens": 252,
-          "hash": "3c11b7a13ce9ada89bd9053304edcc72c731339626fef8fbdecf4390450a4de7",
+          "file": "data/chunks/27267311796243-OptiStick__chunk_004.md",
+          "tokens": 253,
+          "hash": "fc8b9f28520a90d89b18c70b535e2615584fdc22f878df68d20a23056a5661eb",
           "chunk_index": 4,
           "chunk_count": 4
         }
@@ -351,23 +337,23 @@
       "title": "How to use Website Screenshot app",
       "url": "https://support.optisigns.com/hc/en-us/articles/10259143299219-How-to-use-Website-Screenshot-app",
       "updated_at": "2026-06-25T19:46:15Z",
-      "file": "data/articles/how-to-use-website-screenshot-app-10259143299219.md",
-      "tokens": 559,
-      "hash": "3232ee877f3efb6da2361dd17078bc20d1c6ce9b8f28c2c0bd2fd5a966c10b79",
+      "file": "data/articles/10259143299219-How-to-use-Website-Screenshot-app.md",
+      "tokens": 541,
+      "hash": "fc644ba2be1c313a3e4ef77ce1501095c52955c446dabeb59499f60c55b66d9f",
       "status": "scraped",
       "chunks_count": 2,
       "chunks": [
         {
-          "file": "data/chunks/how-to-use-website-screenshot-app-10259143299219__chunk_001.md",
-          "tokens": 348,
-          "hash": "d9825f754042abbc0c97ae94e0f3d4f490b5b644b51253977259e28feff59fe4",
+          "file": "data/chunks/10259143299219-How-to-use-Website-Screenshot-app__chunk_001.md",
+          "tokens": 473,
+          "hash": "07a711be56d01641c3f105cc5cac5cb9d10b9df9b8df5a764a2001b35829f3eb",
           "chunk_index": 1,
           "chunk_count": 2
         },
         {
-          "file": "data/chunks/how-to-use-website-screenshot-app-10259143299219__chunk_002.md",
-          "tokens": 367,
-          "hash": "bc6213b1b4aedcbf3570798dbc155a76b09da7cc17acd67dcf20ef6e7505ee32",
+          "file": "data/chunks/10259143299219-How-to-use-Website-Screenshot-app__chunk_002.md",
+          "tokens": 171,
+          "hash": "2785512a31eefab0774300711c15b8a5b1d55415d7fe91f2c3170011a930a449",
           "chunk_index": 2,
           "chunk_count": 2
         }
@@ -378,25 +364,18 @@
       "title": "How to display content inside websites that require login?",
       "url": "https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login",
       "updated_at": "2026-06-25T12:33:44Z",
-      "file": "data/articles/how-to-display-content-inside-websites-that-require-login-360037391854.md",
-      "tokens": 488,
-      "hash": "90398a77e185a7c0d5b592bcdb416308885d8f3e978dfba5ef14760db89a763f",
+      "file": "data/articles/360037391854-How-to-display-content-inside-websites-that-require-login.md",
+      "tokens": 470,
+      "hash": "3c9bc3859eca9873282d007cd14c987df7b5d9a3654c09884f4ec14c5992951f",
       "status": "scraped",
-      "chunks_count": 2,
+      "chunks_count": 1,
       "chunks": [
         {
-          "file": "data/chunks/how-to-display-content-inside-websites-that-require-login-360037391854__chunk_001.md",
-          "tokens": 461,
-          "hash": "3bd12242542afac8ce4f972f835c3d3418fbe1b98cffdeb0df4e3f9bce1ec4f3",
+          "file": "data/chunks/360037391854-How-to-display-content-inside-websites-that-require-login__chunk_001.md",
+          "tokens": 491,
+          "hash": "aad323b05144d516013438e60b982fea68f4b31d2b368bb183403dc3952993e1",
           "chunk_index": 1,
-          "chunk_count": 2
-        },
-        {
-          "file": "data/chunks/how-to-display-content-inside-websites-that-require-login-360037391854__chunk_002.md",
-          "tokens": 199,
-          "hash": "ac6682d632a6bb66cedd4b168a26614f45e741fd0007733a3ca93df33dfa03e8",
-          "chunk_index": 2,
-          "chunk_count": 2
+          "chunk_count": 1
         }
       ]
     },
@@ -405,58 +384,58 @@
       "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
       "updated_at": "2026-06-24T18:39:16Z",
-      "file": "data/articles/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483.md",
-      "tokens": 2616,
-      "hash": "12ec92668f8b3f8afa44e251c5dcf5971c3db749f42a9817b421ca4d0bb5e5ae",
+      "file": "data/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage.md",
+      "tokens": 2598,
+      "hash": "cc643f29d8ec4a8c6fdcb7ac710284266957532892c1e004916c5ea3eb78ec10",
       "status": "scraped",
       "chunks_count": 7,
       "chunks": [
         {
-          "file": "data/chunks/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483__chunk_001.md",
-          "tokens": 436,
-          "hash": "f3859e423519330ed8c246ec3ea1906060a54bae29d70aa5a530316880ab0ca0",
+          "file": "data/chunks/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage__chunk_001.md",
+          "tokens": 469,
+          "hash": "30ee41b7995b487b1020f5a17b70b93d5710c056d5584ac0ee03a3b7d37f59e4",
           "chunk_index": 1,
           "chunk_count": 7
         },
         {
-          "file": "data/chunks/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483__chunk_002.md",
-          "tokens": 518,
-          "hash": "e16778da45504d7e2aceb5e4bdfa97c10ec6cf7b2958b4ec153433d839a1f207",
+          "file": "data/chunks/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage__chunk_002.md",
+          "tokens": 509,
+          "hash": "360a50b3fad744a0ca1340ed32574f88eb30b7db67aec9976e2935bd349168ed",
           "chunk_index": 2,
           "chunk_count": 7
         },
         {
-          "file": "data/chunks/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483__chunk_003.md",
-          "tokens": 486,
-          "hash": "054898b0d51d4d02e4e63095de936725b832194bb8b4cdbb89d897338af8136a",
+          "file": "data/chunks/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage__chunk_003.md",
+          "tokens": 511,
+          "hash": "7b581697be8c81781032381338614c8af3207405c82d33d005f3fe453fd42386",
           "chunk_index": 3,
           "chunk_count": 7
         },
         {
-          "file": "data/chunks/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483__chunk_004.md",
-          "tokens": 492,
-          "hash": "818b702ab9fe50f90be06473715c73367a825653ba40827157a461356699f378",
+          "file": "data/chunks/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage__chunk_004.md",
+          "tokens": 512,
+          "hash": "b50c3f71824d169c4f256c77ad599b0417477664ca030b6ca88a8f04a201d666",
           "chunk_index": 4,
           "chunk_count": 7
         },
         {
-          "file": "data/chunks/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483__chunk_005.md",
-          "tokens": 514,
-          "hash": "8a6b47899fdb8b9ac114d9b7c26c6ab8cd6dfd3be1e74f1249b42b406b99d2bc",
+          "file": "data/chunks/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage__chunk_005.md",
+          "tokens": 505,
+          "hash": "a8733e1d953d74bf6a05d8b3ecffd6bcba1d858a1e6aca0768da27ec5742440e",
           "chunk_index": 5,
           "chunk_count": 7
         },
         {
-          "file": "data/chunks/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483__chunk_006.md",
-          "tokens": 476,
-          "hash": "095cc794711e1e6cbba025cd460936ec4a218d8d6e479f143378b008846cea22",
+          "file": "data/chunks/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage__chunk_006.md",
+          "tokens": 507,
+          "hash": "ae705a2c1e11ced959d14460c4952f5df692cd88a31ccc31c4a39d105c419623",
           "chunk_index": 6,
           "chunk_count": 7
         },
         {
-          "file": "data/chunks/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483__chunk_007.md",
-          "tokens": 369,
-          "hash": "9bc9f88c3285720472b02ff7310b245fc306c04cbb4d073552d893ff8a98c320",
+          "file": "data/chunks/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage__chunk_007.md",
+          "tokens": 210,
+          "hash": "e1da0fd4f41d09a5a62aeb804bc489e3c1a11e9401e2f191792d4bba0921b370",
           "chunk_index": 7,
           "chunk_count": 7
         }
@@ -467,23 +446,23 @@
       "title": "How to manage Sub-Account billing with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns",
       "updated_at": "2026-06-24T17:40:46Z",
-      "file": "data/articles/how-to-manage-sub-account-billing-with-optisigns-17129313173395.md",
-      "tokens": 638,
-      "hash": "f7cc461bba7df71a98726d15abb09fb9f78268713d845dcf098e6206f3d79a92",
+      "file": "data/articles/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns.md",
+      "tokens": 620,
+      "hash": "19f747f978bf8716d712c43a7b8b99ead8ff561117bf2b1eeea659905bd591a5",
       "status": "scraped",
       "chunks_count": 2,
       "chunks": [
         {
-          "file": "data/chunks/how-to-manage-sub-account-billing-with-optisigns-17129313173395__chunk_001.md",
-          "tokens": 499,
-          "hash": "a06dd88ed134ccb77915ffbb7f76d14d0ea76edcffd4eb17c1204463575ebc74",
+          "file": "data/chunks/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns__chunk_001.md",
+          "tokens": 510,
+          "hash": "874fa6bb420f10d52197b2279ddf217a551ac82a60b5cd7a458187528dab5270",
           "chunk_index": 1,
           "chunk_count": 2
         },
         {
-          "file": "data/chunks/how-to-manage-sub-account-billing-with-optisigns-17129313173395__chunk_002.md",
-          "tokens": 315,
-          "hash": "aed54a29891863a338c5123699f07aaf66c13f0754648d506a7d748cf5cd6943",
+          "file": "data/chunks/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns__chunk_002.md",
+          "tokens": 258,
+          "hash": "adf06e1b19f2d9706de12f8dca97f4400bc8ec503ee5517e5e30e0fd180298c5",
           "chunk_index": 2,
           "chunk_count": 2
         }
@@ -494,37 +473,37 @@
       "title": "How to Use OptiSigns' Template & Designer to Make Your Digital Signs in Minutes",
       "url": "https://support.optisigns.com/hc/en-us/articles/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes",
       "updated_at": "2026-06-20T07:00:26Z",
-      "file": "data/articles/how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes-4404151402899.md",
-      "tokens": 1521,
-      "hash": "76777719686ec208b18e3b40dd216198629069556d2ef807e8765bd404c4f7df",
+      "file": "data/articles/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes.md",
+      "tokens": 1503,
+      "hash": "81dc677a69edc011ff0c81fa3557968a676a0b672733e384fad0c442644053fd",
       "status": "scraped",
       "chunks_count": 4,
       "chunks": [
         {
-          "file": "data/chunks/how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes-4404151402899__chunk_001.md",
-          "tokens": 528,
-          "hash": "c19f39e7800d0fa0d4ab79d81252dcd53f3f3e3a28219a0ec5dbf74824fc46c4",
+          "file": "data/chunks/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes__chunk_001.md",
+          "tokens": 534,
+          "hash": "5c1712d6baf14a1bf3ddefa2dfd8811d2ef08376e2e4521d8182574c81b8f734",
           "chunk_index": 1,
           "chunk_count": 4
         },
         {
-          "file": "data/chunks/how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes-4404151402899__chunk_002.md",
-          "tokens": 535,
-          "hash": "b700a0e5639db732c4a271d6efc7d21aa13cb5c9677550fa912c78bc3cf23fdc",
+          "file": "data/chunks/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes__chunk_002.md",
+          "tokens": 536,
+          "hash": "979543b151ae2a1f3ff8e6b36533bfc3b59ae3224353df6f8dbaa060950b1cfd",
           "chunk_index": 2,
           "chunk_count": 4
         },
         {
-          "file": "data/chunks/how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes-4404151402899__chunk_003.md",
-          "tokens": 517,
-          "hash": "28231cf694b2372c8b5d33d6a708d7a1e5c18f00e28c0026cd2fb5205694d569",
+          "file": "data/chunks/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes__chunk_003.md",
+          "tokens": 524,
+          "hash": "3de79cb146999b34acb5d5c4b770bcf83f2ce49edfd60cff558aa211397e0d10",
           "chunk_index": 3,
           "chunk_count": 4
         },
         {
-          "file": "data/chunks/how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes-4404151402899__chunk_004.md",
-          "tokens": 427,
-          "hash": "2750fb73cd8604507d91338c4dd60e8b554039fcbc86574034bb8301de3b4307",
+          "file": "data/chunks/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes__chunk_004.md",
+          "tokens": 304,
+          "hash": "353082e757ca8a54419ac9ce1d062db963cc353355534dd52178bbee7da8993b",
           "chunk_index": 4,
           "chunk_count": 4
         }
@@ -535,23 +514,23 @@
       "title": "How to Install an APK file on your Fire TV",
       "url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
       "updated_at": "2026-06-19T15:42:09Z",
-      "file": "data/articles/how-to-install-an-apk-file-on-your-fire-tv-360016313754.md",
-      "tokens": 508,
-      "hash": "a8cd36ca4601132f9e441add0d899d3c4eee0251dedc7266b7b8d3fa01b1af47",
+      "file": "data/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV.md",
+      "tokens": 490,
+      "hash": "3e15c951a766d19f8b4a673531f8c49a4536724bcbbf3143e9d56f8a4b281576",
       "status": "scraped",
       "chunks_count": 2,
       "chunks": [
         {
-          "file": "data/chunks/how-to-install-an-apk-file-on-your-fire-tv-360016313754__chunk_001.md",
-          "tokens": 452,
-          "hash": "b8c88614f6be5aa85d3579a71fcd8c11e559e4c92eba49137302c8d60273ee07",
+          "file": "data/chunks/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV__chunk_001.md",
+          "tokens": 448,
+          "hash": "b0ca2d0905b89bd5391b6e20a6a4cf3e1395c3a1124095c35b828c11285818cb",
           "chunk_index": 1,
           "chunk_count": 2
         },
         {
-          "file": "data/chunks/how-to-install-an-apk-file-on-your-fire-tv-360016313754__chunk_002.md",
-          "tokens": 225,
-          "hash": "d642bfd3aa07105606fb3979530fbcd3c21e57d9d27c48f2d3f0704d36de68a6",
+          "file": "data/chunks/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV__chunk_002.md",
+          "tokens": 142,
+          "hash": "ae1a79bb08a69853ebb9d71de92565952003b18995e5ae23a0c80c6ac6bc85ee",
           "chunk_index": 2,
           "chunk_count": 2
         }
@@ -562,23 +541,23 @@
       "title": "How to use YouTube with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns",
       "updated_at": "2026-06-18T05:00:56Z",
-      "file": "data/articles/how-to-use-youtube-with-optisigns-360051014713.md",
-      "tokens": 696,
-      "hash": "d71386220e6bc2588b84f029f38933e00a729d8afd3c001586bfacd851a04812",
+      "file": "data/articles/360051014713-How-to-use-YouTube-with-OptiSigns.md",
+      "tokens": 678,
+      "hash": "6018ce3209f21008482d0b32e28b41b94e5fa45ca089577b475b9b717a5a6aa8",
       "status": "scraped",
       "chunks_count": 2,
       "chunks": [
         {
-          "file": "data/chunks/how-to-use-youtube-with-optisigns-360051014713__chunk_001.md",
-          "tokens": 437,
-          "hash": "e626f6e5cc0f1f1672061eaa193d6101d19bdc8b4b5644a3c247c6c9f1989ec8",
+          "file": "data/chunks/360051014713-How-to-use-YouTube-with-OptiSigns__chunk_001.md",
+          "tokens": 369,
+          "hash": "71ad2b1f04e899acf1d8aa2812044f3fbf07ed27668a9919afad07af1805aa66",
           "chunk_index": 1,
           "chunk_count": 2
         },
         {
-          "file": "data/chunks/how-to-use-youtube-with-optisigns-360051014713__chunk_002.md",
-          "tokens": 427,
-          "hash": "ef54316b47ca665b154099be2a68519feddfff9d579aa7b97fe20f83902b68ce",
+          "file": "data/chunks/360051014713-How-to-use-YouTube-with-OptiSigns__chunk_002.md",
+          "tokens": 430,
+          "hash": "0b1a15621cb16c6f96f7fc71dcaa6e48e9bbc343d1f93c607f0631ff72e1dd4e",
           "chunk_index": 2,
           "chunk_count": 2
         }
@@ -589,32 +568,25 @@
       "title": "Whitelist OptiSigns IP addresses & ports",
       "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
       "updated_at": "2026-06-18T00:48:15Z",
-      "file": "data/articles/whitelist-optisigns-ip-addresses-ports-360047275934.md",
-      "tokens": 849,
-      "hash": "cf3059fb51036d6d932c486ac415a10a14a63ddffcad9a6e841666d0eee40911",
+      "file": "data/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports.md",
+      "tokens": 831,
+      "hash": "b319aafc14bab70cea4f08365db4075fb1a77aa67e0374223bdaf4743d776ff7",
       "status": "scraped",
-      "chunks_count": 3,
+      "chunks_count": 2,
       "chunks": [
         {
-          "file": "data/chunks/whitelist-optisigns-ip-addresses-ports-360047275934__chunk_001.md",
-          "tokens": 485,
-          "hash": "0dbaa10434962781a078d4b8cd91f025363ff31b1d0d68153f7403aa41d7d5c6",
+          "file": "data/chunks/360047275934-Whitelist-OptiSigns-IP-addresses-ports__chunk_001.md",
+          "tokens": 467,
+          "hash": "6faa413cd37e10cae56cd161f24239e5077d4a3225be32b90d406a1e9671d3ef",
           "chunk_index": 1,
-          "chunk_count": 3
+          "chunk_count": 2
         },
         {
-          "file": "data/chunks/whitelist-optisigns-ip-addresses-ports-360047275934__chunk_002.md",
-          "tokens": 493,
-          "hash": "c46c6dcee8166a94d6db823b3d1166514144342afa386173ad75ed10c51ed656",
+          "file": "data/chunks/360047275934-Whitelist-OptiSigns-IP-addresses-ports__chunk_002.md",
+          "tokens": 464,
+          "hash": "80cee9f86cd4c29127855d4eb79d835ccde54bbef4eff1f1d0bb8a868fd9879e",
           "chunk_index": 2,
-          "chunk_count": 3
-        },
-        {
-          "file": "data/chunks/whitelist-optisigns-ip-addresses-ports-360047275934__chunk_003.md",
-          "tokens": 113,
-          "hash": "a1f4f4538e135a355fd47989943bc1588db1861a50e36b6ac672e387a7dd5d28",
-          "chunk_index": 3,
-          "chunk_count": 3
+          "chunk_count": 2
         }
       ]
     },
@@ -623,53 +595,46 @@
       "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
       "updated_at": "2026-06-15T19:14:16Z",
-      "file": "data/articles/room-integrations-turn-your-meeting-rooms-into-digital-signage-52113036672403.md",
-      "tokens": 1898,
-      "hash": "124f5eb563c2b17474ac64053ffbf900c883ac0fc2223d82fb8a80ed96507499",
+      "file": "data/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage.md",
+      "tokens": 1880,
+      "hash": "19a80557b6ee9b5dd852259c0f277ff3055722020e4ee5e200f1f9ec0b22999e",
       "status": "scraped",
-      "chunks_count": 6,
+      "chunks_count": 5,
       "chunks": [
         {
-          "file": "data/chunks/room-integrations-turn-your-meeting-rooms-into-digital-signage-52113036672403__chunk_001.md",
-          "tokens": 314,
-          "hash": "47bd131056f1c9b63b106ca1397774820eba4fd245aa5f6767aee99e76e69fbc",
+          "file": "data/chunks/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage__chunk_001.md",
+          "tokens": 485,
+          "hash": "82b4330851c06efbd5457c17916bf0e8d01318282e7471487c37527426a88f4b",
           "chunk_index": 1,
-          "chunk_count": 6
+          "chunk_count": 5
         },
         {
-          "file": "data/chunks/room-integrations-turn-your-meeting-rooms-into-digital-signage-52113036672403__chunk_002.md",
-          "tokens": 471,
-          "hash": "fe82b30a4086f3737907251c8b80aa63cf41cacb2ec1755bdd8842f865a44a36",
+          "file": "data/chunks/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage__chunk_002.md",
+          "tokens": 499,
+          "hash": "d67efabebd9bf50dc5c9a93a2867832fc94915846586e4a6122a83a1e0188210",
           "chunk_index": 2,
-          "chunk_count": 6
+          "chunk_count": 5
         },
         {
-          "file": "data/chunks/room-integrations-turn-your-meeting-rooms-into-digital-signage-52113036672403__chunk_003.md",
-          "tokens": 520,
-          "hash": "01e4fb65b28da664a738fcc2689b234ec078470392c7972cecd6fdefce681076",
+          "file": "data/chunks/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage__chunk_003.md",
+          "tokens": 477,
+          "hash": "d194b112661b689415aaeb4604d21a22042b40d9d1e2b9c6db379e321c4aa25c",
           "chunk_index": 3,
-          "chunk_count": 6
+          "chunk_count": 5
         },
         {
-          "file": "data/chunks/room-integrations-turn-your-meeting-rooms-into-digital-signage-52113036672403__chunk_004.md",
-          "tokens": 412,
-          "hash": "0d1d38df905a8267ee8cd4b9b92d57e37fa2bb3bc49dae0ed5a5bee06f33cb3f",
+          "file": "data/chunks/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage__chunk_004.md",
+          "tokens": 522,
+          "hash": "b9d9f0a167a36c14ad0a8d0134bceeec76107a971b4fd080ece8284c2c707918",
           "chunk_index": 4,
-          "chunk_count": 6
+          "chunk_count": 5
         },
         {
-          "file": "data/chunks/room-integrations-turn-your-meeting-rooms-into-digital-signage-52113036672403__chunk_005.md",
-          "tokens": 516,
-          "hash": "8b1aebc468b273d6314d5a16a6418660d5478cfb8f85d00cca9ce185ece78b6d",
+          "file": "data/chunks/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage__chunk_005.md",
+          "tokens": 324,
+          "hash": "a37631051869dd5c5350f425d5ab101032c9a45659488b9b437afe609d680efa",
           "chunk_index": 5,
-          "chunk_count": 6
-        },
-        {
-          "file": "data/chunks/room-integrations-turn-your-meeting-rooms-into-digital-signage-52113036672403__chunk_006.md",
-          "tokens": 318,
-          "hash": "abbfe996540a28085e697117f60abade01ce6aaa79bf0940eede5faf3256b46b",
-          "chunk_index": 6,
-          "chunk_count": 6
+          "chunk_count": 5
         }
       ]
     },
@@ -678,51 +643,51 @@
       "title": "Connect Google Meet Hardware to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage",
       "updated_at": "2026-06-15T19:14:07Z",
-      "file": "data/articles/connect-google-meet-hardware-to-optisigns-digital-signage-52412502456083.md",
-      "tokens": 2321,
-      "hash": "970581335669e5804e0a8804a350139776fcb207e6d693f48bb67dc8934a65aa",
+      "file": "data/articles/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage.md",
+      "tokens": 2303,
+      "hash": "3c56d41049103576df5b68b12cc28b1e8197fef4172bd5848b0f9978bfce7b11",
       "status": "scraped",
       "chunks_count": 6,
       "chunks": [
         {
-          "file": "data/chunks/connect-google-meet-hardware-to-optisigns-digital-signage-52412502456083__chunk_001.md",
-          "tokens": 434,
-          "hash": "14e27a97ee2bb8adbbed7ee8b2c521ac305cc05e9dc637a3d89b1dd2f97dc2f0",
+          "file": "data/chunks/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage__chunk_001.md",
+          "tokens": 505,
+          "hash": "a19dcee759c0fda38e984747f4b2b3097cb4da6968a154b3f7b6505f7a4381a3",
           "chunk_index": 1,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/connect-google-meet-hardware-to-optisigns-digital-signage-52412502456083__chunk_002.md",
-          "tokens": 509,
-          "hash": "377541dcb080042e6fbb09c7d3f06c62aae00b56ad99f075c5b107e4dadc73cd",
+          "file": "data/chunks/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage__chunk_002.md",
+          "tokens": 469,
+          "hash": "043eee9b753521b72adfdb06f1d67e4e1ac502e9d449ac9dab1f4d0ae179a913",
           "chunk_index": 2,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/connect-google-meet-hardware-to-optisigns-digital-signage-52412502456083__chunk_003.md",
-          "tokens": 499,
-          "hash": "a26fec65ff8cb6215459879b8d118a96d5f938236a0a6afaa6eb231a2f3ef5cc",
+          "file": "data/chunks/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage__chunk_003.md",
+          "tokens": 495,
+          "hash": "5f8a852145d0777f99b5f2005c96f7f8bc2ffa78317270b9c9abcc42a3abfd77",
           "chunk_index": 3,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/connect-google-meet-hardware-to-optisigns-digital-signage-52412502456083__chunk_004.md",
-          "tokens": 480,
-          "hash": "40bea7e583d236c4d5350992f25256fc8088e1d36f883abb55599b4ba7740739",
+          "file": "data/chunks/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage__chunk_004.md",
+          "tokens": 517,
+          "hash": "892bbcbe8498494f0d08f08bf27abdbf1911ec42c162bccfdcb5b58f864a2222",
           "chunk_index": 4,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/connect-google-meet-hardware-to-optisigns-digital-signage-52412502456083__chunk_005.md",
-          "tokens": 507,
-          "hash": "addfa730c74b50b9988149e8ab895ce01cd035b7e1ef9b05a0fcf3fa1e016d21",
+          "file": "data/chunks/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage__chunk_005.md",
+          "tokens": 522,
+          "hash": "10b04cfb25ff0163dbffe1da88140d024ed1deb4c8522a0dd4c4de72efb451b2",
           "chunk_index": 5,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/connect-google-meet-hardware-to-optisigns-digital-signage-52412502456083__chunk_006.md",
-          "tokens": 468,
-          "hash": "140c69f161481e533dde45e9042617b0fe3a76587155e1a36dfef0ca2b160331",
+          "file": "data/chunks/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage__chunk_006.md",
+          "tokens": 356,
+          "hash": "39f8e62b1a44d1c9c8989aff45f2fae1493bba34bf3aa779600c062d567e0ddb",
           "chunk_index": 6,
           "chunk_count": 6
         }
@@ -733,53 +698,46 @@
       "title": "Connect Cisco Webex Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage",
       "updated_at": "2026-06-15T19:13:59Z",
-      "file": "data/articles/connect-cisco-webex-rooms-to-optisigns-digital-signage-51343184586643.md",
-      "tokens": 2047,
-      "hash": "edd0e2ea7c43595a8dae868ce7de22bb91fbaeb4053664c1fb34bb476236f787",
+      "file": "data/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage.md",
+      "tokens": 2029,
+      "hash": "df9d473fec8d9fc0cacef9f1aedff997c893d6ab06894238841972a0254fc40a",
       "status": "scraped",
-      "chunks_count": 6,
+      "chunks_count": 5,
       "chunks": [
         {
-          "file": "data/chunks/connect-cisco-webex-rooms-to-optisigns-digital-signage-51343184586643__chunk_001.md",
-          "tokens": 471,
-          "hash": "dffe40542ae1e7f195164f28f0857f27ad74bf87cb6051f98e7686f1722fd5b8",
+          "file": "data/chunks/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage__chunk_001.md",
+          "tokens": 511,
+          "hash": "fb7f36e8adb068d7d23e993cb6639611b46b059194ad1978a4ee5eed42320dcf",
           "chunk_index": 1,
-          "chunk_count": 6
+          "chunk_count": 5
         },
         {
-          "file": "data/chunks/connect-cisco-webex-rooms-to-optisigns-digital-signage-51343184586643__chunk_002.md",
-          "tokens": 435,
-          "hash": "e084a81e2584893032c3f0d28022023a5d03f6d4c4419982d05ff7961d240c65",
+          "file": "data/chunks/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage__chunk_002.md",
+          "tokens": 494,
+          "hash": "ea7f30d539f3984ab1faed8ef0a04bb27340bc352e0a8b34b63b94dfc07af181",
           "chunk_index": 2,
-          "chunk_count": 6
+          "chunk_count": 5
         },
         {
-          "file": "data/chunks/connect-cisco-webex-rooms-to-optisigns-digital-signage-51343184586643__chunk_003.md",
-          "tokens": 516,
-          "hash": "78090c02a47f699ffc38ef51609ecb118426cf09751c00720589c31bebd2fef9",
+          "file": "data/chunks/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage__chunk_003.md",
+          "tokens": 501,
+          "hash": "e286f403083056597b617b0af5675f9b38d7b9faf83d9667f74cd9438b7f5725",
           "chunk_index": 3,
-          "chunk_count": 6
+          "chunk_count": 5
         },
         {
-          "file": "data/chunks/connect-cisco-webex-rooms-to-optisigns-digital-signage-51343184586643__chunk_004.md",
-          "tokens": 518,
-          "hash": "e0638769e9e9d75d3b9bf5b4a959aa619834796ede463a31a61963f36ed1ea8a",
+          "file": "data/chunks/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage__chunk_004.md",
+          "tokens": 465,
+          "hash": "9c22f8a9af797d79607f60007c4d870c3b32143de393a971e7ce17357b49651b",
           "chunk_index": 4,
-          "chunk_count": 6
+          "chunk_count": 5
         },
         {
-          "file": "data/chunks/connect-cisco-webex-rooms-to-optisigns-digital-signage-51343184586643__chunk_005.md",
-          "tokens": 484,
-          "hash": "9ebb1db44a350a043b3b2c7034735d9ef6e3fb66b8f4d7ff7912bc41f7aff055",
+          "file": "data/chunks/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage__chunk_005.md",
+          "tokens": 520,
+          "hash": "9689204175882ead6825d1eaab897c7bda0453ddaf155f36fc52113ee111db29",
           "chunk_index": 5,
-          "chunk_count": 6
-        },
-        {
-          "file": "data/chunks/connect-cisco-webex-rooms-to-optisigns-digital-signage-51343184586643__chunk_006.md",
-          "tokens": 206,
-          "hash": "9aab0231bb0bc8e4098110c2835cd39de0957aeedccf26cd8177f165591fde4a",
-          "chunk_index": 6,
-          "chunk_count": 6
+          "chunk_count": 5
         }
       ]
     },
@@ -788,30 +746,30 @@
       "title": "How to use RSS feeds with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/360037965133-How-to-use-RSS-feeds-with-OptiSigns",
       "updated_at": "2026-06-15T16:04:29Z",
-      "file": "data/articles/how-to-use-rss-feeds-with-optisigns-360037965133.md",
-      "tokens": 1024,
-      "hash": "6fea7174401101ed59fa2ebad82ee5228b6d2575038c062a63b19091ebd35e3d",
+      "file": "data/articles/360037965133-How-to-use-RSS-feeds-with-OptiSigns.md",
+      "tokens": 1006,
+      "hash": "71824409e49c70a61ad2abf3ccb2de3608cf4acf4325211acd645578e2025cc0",
       "status": "scraped",
       "chunks_count": 3,
       "chunks": [
         {
-          "file": "data/chunks/how-to-use-rss-feeds-with-optisigns-360037965133__chunk_001.md",
-          "tokens": 501,
-          "hash": "2e8401c1857d94146551c2c9f09b2eb153e269aced4375e3ed4ab4d4757c9116",
+          "file": "data/chunks/360037965133-How-to-use-RSS-feeds-with-OptiSigns__chunk_001.md",
+          "tokens": 469,
+          "hash": "1fbe0f15f5b7ddc9ebaaf9496a5205f677884e9bb4c9626c0b8b0d33b1cdbc68",
           "chunk_index": 1,
           "chunk_count": 3
         },
         {
-          "file": "data/chunks/how-to-use-rss-feeds-with-optisigns-360037965133__chunk_002.md",
-          "tokens": 483,
-          "hash": "41eb96734aef6074b271f619a5044a842677c27c1865ec5559f83286a4039fa1",
+          "file": "data/chunks/360037965133-How-to-use-RSS-feeds-with-OptiSigns__chunk_002.md",
+          "tokens": 448,
+          "hash": "0d8c2f36d2ed06f5d51b42cb2b0278f409a9a7fd82d57beae76c7f5f8d93656c",
           "chunk_index": 2,
           "chunk_count": 3
         },
         {
-          "file": "data/chunks/how-to-use-rss-feeds-with-optisigns-360037965133__chunk_003.md",
-          "tokens": 309,
-          "hash": "434717ecc4f945a495174bbaa1a5ca75bb358b9542e02fbb8286503ac20df4bf",
+          "file": "data/chunks/360037965133-How-to-use-RSS-feeds-with-OptiSigns__chunk_003.md",
+          "tokens": 311,
+          "hash": "f1888e0e20587edf148b12d0a72e47294f86b35f8bffb851360f8ade9a2b3630",
           "chunk_index": 3,
           "chunk_count": 3
         }
@@ -822,30 +780,30 @@
       "title": "How to Use the Data Studio App",
       "url": "https://support.optisigns.com/hc/en-us/articles/360052088413-How-to-Use-the-Data-Studio-App",
       "updated_at": "2026-06-12T19:57:31Z",
-      "file": "data/articles/how-to-use-the-data-studio-app-360052088413.md",
-      "tokens": 1086,
-      "hash": "0484c50a4489f90de61da0727d188803822882726d41c65c7bde27d50acdaeca",
+      "file": "data/articles/360052088413-How-to-Use-the-Data-Studio-App.md",
+      "tokens": 1068,
+      "hash": "5d80f801772b2886066828965cc12a99a6c408f7d634c82fe5a719f2a3807fb1",
       "status": "scraped",
       "chunks_count": 3,
       "chunks": [
         {
-          "file": "data/chunks/how-to-use-the-data-studio-app-360052088413__chunk_001.md",
-          "tokens": 458,
-          "hash": "7b0902178180bc6e1a2ac5be69068801c6ee63d57a0e8794e8593bc9a942f8bc",
+          "file": "data/chunks/360052088413-How-to-Use-the-Data-Studio-App__chunk_001.md",
+          "tokens": 500,
+          "hash": "aa6ed3e7a8eaa145ccd05a1e390690b3e6b9d078db2f60bac331d0971e52a4cf",
           "chunk_index": 1,
           "chunk_count": 3
         },
         {
-          "file": "data/chunks/how-to-use-the-data-studio-app-360052088413__chunk_002.md",
-          "tokens": 486,
-          "hash": "481630b1d3bb04536ecd5322fdeac1c8e756b4c6a972f88ce4e106e06eadfaed",
+          "file": "data/chunks/360052088413-How-to-Use-the-Data-Studio-App__chunk_002.md",
+          "tokens": 499,
+          "hash": "d42d6a68b21ae359f25af01ba058e3b01dc80bae28d27cae8ec3f7786984bb08",
           "chunk_index": 2,
           "chunk_count": 3
         },
         {
-          "file": "data/chunks/how-to-use-the-data-studio-app-360052088413__chunk_003.md",
-          "tokens": 378,
-          "hash": "7fa66b676b4f0aef9b1f25bb9469f2503ce3a955ed35e9b39d8c3c0ca62e774f",
+          "file": "data/chunks/360052088413-How-to-Use-the-Data-Studio-App__chunk_003.md",
+          "tokens": 283,
+          "hash": "aba24fce29c8d7bd2e60f07df6403125dc01324f359622f5d70fa3b4a80aef5f",
           "chunk_index": 3,
           "chunk_count": 3
         }
@@ -856,51 +814,51 @@
       "title": "OptiSigns Digital Signage App for Zoom — Adding, Using, and Removing the App",
       "url": "https://support.optisigns.com/hc/en-us/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App",
       "updated_at": "2026-06-11T22:24:43Z",
-      "file": "data/articles/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app-52523606879251.md",
-      "tokens": 1898,
-      "hash": "57656d081245e920ee678d931f330bafa70f66f809bf555d7ecfb33aaaa69a15",
+      "file": "data/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App.md",
+      "tokens": 1880,
+      "hash": "c54f63e27322c8bd4bb63a9831cc0892f05e957beea7428a1d968cf31513ea0c",
       "status": "scraped",
       "chunks_count": 6,
       "chunks": [
         {
-          "file": "data/chunks/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app-52523606879251__chunk_001.md",
-          "tokens": 322,
-          "hash": "ecc52f55abfc4ec78b7ebc5e78b5b19189f790fd5985f63614a1c675b4c1ab80",
+          "file": "data/chunks/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App__chunk_001.md",
+          "tokens": 232,
+          "hash": "233c6384c9baa3d9f7594718dadfff6b4db5c4aac7e52bc2dd626a05c2fce2c2",
           "chunk_index": 1,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app-52523606879251__chunk_002.md",
-          "tokens": 513,
-          "hash": "bfb14319375d17bb89dc571d531d01d8ba692918575def263c2faa80bb91154d",
+          "file": "data/chunks/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App__chunk_002.md",
+          "tokens": 515,
+          "hash": "b9edbc001f36dfefba0f792a561e9936080929f9d2a208b52aed99da0caa3f2b",
           "chunk_index": 2,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app-52523606879251__chunk_003.md",
-          "tokens": 467,
-          "hash": "1c3a542bb21216d913e2099de0471e767c2d869ab1dc7abe64469e9e9361044d",
+          "file": "data/chunks/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App__chunk_003.md",
+          "tokens": 469,
+          "hash": "4fbb3b53d02c4fbead7ec24aa9926edac0667ef0d5da263ae0c15b20d97f85d4",
           "chunk_index": 3,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app-52523606879251__chunk_004.md",
-          "tokens": 503,
-          "hash": "7031501e4a7af1667f1dab454838e111502a74d6532e1e3a4154a4e4e456850c",
+          "file": "data/chunks/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App__chunk_004.md",
+          "tokens": 505,
+          "hash": "768f476639647fb80333953cd46474f231e2cdf4cef93da305b067809695de1b",
           "chunk_index": 4,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app-52523606879251__chunk_005.md",
-          "tokens": 504,
-          "hash": "f328cc40103a73ac01987fdabb0d83ce5cff0784cce571c333cf26a1bf3c7558",
+          "file": "data/chunks/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App__chunk_005.md",
+          "tokens": 506,
+          "hash": "8ec42fdfb9c1ad7ca47f1d9110636ec7874697112b3a23d7ae927fb27e0090b8",
           "chunk_index": 5,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app-52523606879251__chunk_006.md",
-          "tokens": 254,
-          "hash": "ecb1815a662457a64ed5b4fafc09e379df7f7c6e0874f396dc2fbae7646ba561",
+          "file": "data/chunks/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App__chunk_006.md",
+          "tokens": 256,
+          "hash": "89929dae79a43ec9de0c458e6282d21f38794e4728ace08e87f77a6a6ad6412e",
           "chunk_index": 6,
           "chunk_count": 6
         }
@@ -911,51 +869,51 @@
       "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
       "updated_at": "2026-06-11T22:22:00Z",
-      "file": "data/articles/connect-zoom-rooms-to-optisigns-digital-signage-52069065128723.md",
-      "tokens": 2230,
-      "hash": "d4b757124d282b0235475602bab7a5b92c21f04998158a26e7b7426e00b07124",
+      "file": "data/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage.md",
+      "tokens": 2212,
+      "hash": "efac3c6732eb5aa2987ba0634ab2abda25e586fb0c6ac39f799d8f18877ff21c",
       "status": "scraped",
       "chunks_count": 6,
       "chunks": [
         {
-          "file": "data/chunks/connect-zoom-rooms-to-optisigns-digital-signage-52069065128723__chunk_001.md",
-          "tokens": 498,
-          "hash": "56aea6ac6f7a098da658883d3ce6ee4f42fc2f859c10f1c23191dc6eb356897b",
+          "file": "data/chunks/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage__chunk_001.md",
+          "tokens": 509,
+          "hash": "ffbbe938a8a9ee1804f26cb8e24cee3810cbd2d395eef85efab0a14ed505268b",
           "chunk_index": 1,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/connect-zoom-rooms-to-optisigns-digital-signage-52069065128723__chunk_002.md",
-          "tokens": 463,
-          "hash": "750c3e4cb55b9aebdd3ed4435ae926aa8075662de0fd0bfedab3ee601af5160f",
+          "file": "data/chunks/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage__chunk_002.md",
+          "tokens": 479,
+          "hash": "158887a4aab64dabaef7d067436fb11a4e0ceff1cc1d6f97a94a9b1a40ed7b81",
           "chunk_index": 2,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/connect-zoom-rooms-to-optisigns-digital-signage-52069065128723__chunk_003.md",
-          "tokens": 493,
-          "hash": "66fe980578eba78bacdb188e7b24a5b3cd3142dbf4194fef59a97fd795dda63f",
+          "file": "data/chunks/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage__chunk_003.md",
+          "tokens": 504,
+          "hash": "2c2edbb05aebc6e0c1bc66d3696189507ab8509a12223c3a3a59db2ca072a942",
           "chunk_index": 3,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/connect-zoom-rooms-to-optisigns-digital-signage-52069065128723__chunk_004.md",
-          "tokens": 506,
-          "hash": "f7e78978ddab31ba0af50409601f120a43d1f9e5fefa9d9bcbf6973ff93ed724",
+          "file": "data/chunks/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage__chunk_004.md",
+          "tokens": 470,
+          "hash": "5865b39a5333c8e289cfc1fd641bb2bb238f84deee0a4c51e5ac68257f3ce8eb",
           "chunk_index": 4,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/connect-zoom-rooms-to-optisigns-digital-signage-52069065128723__chunk_005.md",
-          "tokens": 510,
-          "hash": "321e28a8d022233d4346b83b719a46dadb3315eb4a576ffd461665d48a9a01c7",
+          "file": "data/chunks/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage__chunk_005.md",
+          "tokens": 465,
+          "hash": "ceca9dccdb20062f39ce82f2da832375e0a618addd663205539c9e872c704bd6",
           "chunk_index": 5,
           "chunk_count": 6
         },
         {
-          "file": "data/chunks/connect-zoom-rooms-to-optisigns-digital-signage-52069065128723__chunk_006.md",
-          "tokens": 336,
-          "hash": "ab4bc1c29c18d07935d29db7839b6510d8aa891bbbbde94a221c9409e1c7f2ca",
+          "file": "data/chunks/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage__chunk_006.md",
+          "tokens": 340,
+          "hash": "ede004e6669ab9451027077e3a98a609a6c7b9b77584279c5da81098986de0be",
           "chunk_index": 6,
           "chunk_count": 6
         }
@@ -966,16 +924,16 @@
       "title": "Pre-configure Wi-Fi with OptiSigns devices",
       "url": "https://support.optisigns.com/hc/en-us/articles/360055549854-Pre-configure-Wi-Fi-with-OptiSigns-devices",
       "updated_at": "2026-06-11T17:53:34Z",
-      "file": "data/articles/pre-configure-wi-fi-with-optisigns-devices-360055549854.md",
-      "tokens": 285,
-      "hash": "191cae7435e7fc62f50d37d86e770e74120ae3be167c9819fc35bec945c6c4d4",
+      "file": "data/articles/360055549854-Pre-configure-Wi-Fi-with-OptiSigns-devices.md",
+      "tokens": 267,
+      "hash": "d51ceeb072d1129c602cc7f0b5906bb637bcb8add62f8fd0aeedad5279b183bd",
       "status": "scraped",
       "chunks_count": 1,
       "chunks": [
         {
-          "file": "data/chunks/pre-configure-wi-fi-with-optisigns-devices-360055549854__chunk_001.md",
-          "tokens": 361,
-          "hash": "9741fd835de87290d9c920bfa3dc5b6df69bd5323e8856854ee7eee810ed9ab5",
+          "file": "data/chunks/360055549854-Pre-configure-Wi-Fi-with-OptiSigns-devices__chunk_001.md",
+          "tokens": 289,
+          "hash": "1e3b141fc3208972f1a92e209cb7a1c193b1cdee8375b2450a24222a94709bb5",
           "chunk_index": 1,
           "chunk_count": 1
         }
@@ -986,32 +944,25 @@
       "title": "How to Order a Preconfigured OptiSigns Android Player Device",
       "url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device",
       "updated_at": "2026-06-11T17:48:29Z",
-      "file": "data/articles/how-to-order-a-preconfigured-optisigns-android-player-device-31960461758611.md",
-      "tokens": 660,
-      "hash": "1436626b1a388820e22ccef1fb477a56d58bad8c00d7436409fd0ef5b1e98b7c",
+      "file": "data/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device.md",
+      "tokens": 642,
+      "hash": "35a71044f55f7d3a007137706c95c06b969733b9c675fcc7f3a7c7e38329242b",
       "status": "scraped",
-      "chunks_count": 3,
+      "chunks_count": 2,
       "chunks": [
         {
-          "file": "data/chunks/how-to-order-a-preconfigured-optisigns-android-player-device-31960461758611__chunk_001.md",
-          "tokens": 297,
-          "hash": "9e2875759e271453a79a6e1a838c2f300d46a2fbed08244a5aa1b56fd5b52cbd",
+          "file": "data/chunks/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device__chunk_001.md",
+          "tokens": 508,
+          "hash": "1915700241aceaa20162cc425304ef6f5f9c3a335549af0aa9fab0e69858c3aa",
           "chunk_index": 1,
-          "chunk_count": 3
+          "chunk_count": 2
         },
         {
-          "file": "data/chunks/how-to-order-a-preconfigured-optisigns-android-player-device-31960461758611__chunk_002.md",
-          "tokens": 412,
-          "hash": "78768ac9f18a37ddc089b4d1a1f6c58368f76884b98f3f36f33f7c7b78dac8d2",
+          "file": "data/chunks/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device__chunk_002.md",
+          "tokens": 253,
+          "hash": "cb5fdf1a15d7c7890109ec3252d75c81cd65299651b2fe510d6bb3504443fb81",
           "chunk_index": 2,
-          "chunk_count": 3
-        },
-        {
-          "file": "data/chunks/how-to-order-a-preconfigured-optisigns-android-player-device-31960461758611__chunk_003.md",
-          "tokens": 247,
-          "hash": "88f63fce56fc226aabfe7d635b988a3994f1b79c3fe627a1d29af5221b842753",
-          "chunk_index": 3,
-          "chunk_count": 3
+          "chunk_count": 2
         }
       ]
     },
@@ -1020,16 +971,16 @@
       "title": "Cannot find the OptiSigns app on Your Samsung Smart TV",
       "url": "https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
       "updated_at": "2026-06-11T17:13:11Z",
-      "file": "data/articles/cannot-find-the-optisigns-app-on-your-samsung-smart-tv-15268811715347.md",
-      "tokens": 370,
-      "hash": "ad2c3b373cfca38fcb9f0b417ae504375725bbf7f92428f68a4562aa4e4e3a8c",
+      "file": "data/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV.md",
+      "tokens": 352,
+      "hash": "4ed93576656f5a640221dc24765e2fc52b463794dab3c52a111ff3063b22d7cd",
       "status": "scraped",
       "chunks_count": 1,
       "chunks": [
         {
-          "file": "data/chunks/cannot-find-the-optisigns-app-on-your-samsung-smart-tv-15268811715347__chunk_001.md",
-          "tokens": 454,
-          "hash": "f4cf9db97910fdd0e3786b752f3b2d8338fb22784a494d4d34aa741f78bd4566",
+          "file": "data/chunks/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV__chunk_001.md",
+          "tokens": 377,
+          "hash": "4944933a22ef850709e23ae6084c4f66f98fc707e88a26fb1aa45bfd7259e1b4",
           "chunk_index": 1,
           "chunk_count": 1
         }
@@ -1040,65 +991,65 @@
       "title": "How to Use the OptiSigns Mobile Admin App",
       "url": "https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App",
       "updated_at": "2026-06-11T11:49:35Z",
-      "file": "data/articles/how-to-use-the-optisigns-mobile-admin-app-30003143806099.md",
-      "tokens": 2848,
-      "hash": "8d22b901628032e4052de15c1496112fe222d46daae83b2d1e421297b1a2cd29",
+      "file": "data/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App.md",
+      "tokens": 2830,
+      "hash": "550f4a121b8127a7dc19c21a7d264574805733052c46abd06bf5816e0c4fe374",
       "status": "scraped",
       "chunks_count": 8,
       "chunks": [
         {
-          "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_001.md",
-          "tokens": 493,
-          "hash": "f8eb42795bd1644cbe9a713bbe8437c910398fd070fe293ef846b4b804dd6ccf",
+          "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_001.md",
+          "tokens": 421,
+          "hash": "addc1a2339d21f2f329884b89776023e1c3f68d5572b7db2024498b5fd6f1269",
           "chunk_index": 1,
           "chunk_count": 8
         },
         {
-          "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_002.md",
-          "tokens": 514,
-          "hash": "1b1b46e1696dca9f18ba8bc84a23a25995629fc744c16ea6d469d4572142db21",
+          "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_002.md",
+          "tokens": 518,
+          "hash": "1ed513326eb913cee73102d870dca741aa1659e4d0899330b109b77e99ba97c0",
           "chunk_index": 2,
           "chunk_count": 8
         },
         {
-          "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_003.md",
-          "tokens": 498,
-          "hash": "ff87ddce4032b6fc6517f539b5537d4991b4e995a33212991657a1fb137854b4",
+          "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_003.md",
+          "tokens": 502,
+          "hash": "bd6441c81dd4450fcfe030ba9dd1ab604c11d675cec9b0b8052494313a8d27ed",
           "chunk_index": 3,
           "chunk_count": 8
         },
         {
-          "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_004.md",
-          "tokens": 501,
-          "hash": "f942becca5896895782a4c7fb06493832bad9cbd69f59ba90cc6ec9ebf6e0487",
+          "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_004.md",
+          "tokens": 505,
+          "hash": "82465a89498c36d3fcbc33789e59f44f180f7b6df8cc43d5cfe4f8454c8d04e6",
           "chunk_index": 4,
           "chunk_count": 8
         },
         {
-          "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_005.md",
-          "tokens": 505,
-          "hash": "a591c6d815b921b636d341e63dc61c0768d83383fa192e1d74765610b97caba2",
+          "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_005.md",
+          "tokens": 509,
+          "hash": "7084ae13468852d32e4306e73bd40a58c800ee2fc4d762048f7a0cee1b7fadbb",
           "chunk_index": 5,
           "chunk_count": 8
         },
         {
-          "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_006.md",
-          "tokens": 497,
-          "hash": "8aef716bb25e106dcd8b7614e1189d564c00a85fd5138db180d5f1a6a33da83b",
+          "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_006.md",
+          "tokens": 501,
+          "hash": "742aefbb639ec1e1e7a8071ba577b5c16b263a5aeef49601297540c09c400552",
           "chunk_index": 6,
           "chunk_count": 8
         },
         {
-          "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_007.md",
-          "tokens": 472,
-          "hash": "451f167e26543c46bb6c36e7466e9f9042c5c0a0cf1678670196a0a83ef9bb00",
+          "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_007.md",
+          "tokens": 476,
+          "hash": "f735212b3bc15cde34ae43611b609f3d5954e2be163912edf09d4618961accdd",
           "chunk_index": 7,
           "chunk_count": 8
         },
         {
-          "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_008.md",
-          "tokens": 137,
-          "hash": "05fb6d27685983d19e050bab684f37c33710962d264bb30a94b2005417f57b46",
+          "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_008.md",
+          "tokens": 141,
+          "hash": "6ae430f32cb6e2ec85d3178381688a02070602511e5ff956f6a01252af038319",
           "chunk_index": 8,
           "chunk_count": 8
         }
@@ -1109,23 +1060,23 @@
       "title": "Synchronized playback (Sync Play) feature",
       "url": "https://support.optisigns.com/hc/en-us/articles/4412065189267-Synchronized-playback-Sync-Play-feature",
       "updated_at": "2026-06-10T19:08:01Z",
-      "file": "data/articles/synchronized-playback-sync-play-feature-4412065189267.md",
-      "tokens": 522,
-      "hash": "2bdc6ea22120c38012af12f84b7b8e3af2168cefbd161c3a1ee8262798285294",
+      "file": "data/articles/4412065189267-Synchronized-playback-Sync-Play-feature.md",
+      "tokens": 504,
+      "hash": "4eb38ab8403de146f3246f67b9b5833a484dac15835f800ba1fbd498370802bc",
       "status": "scraped",
       "chunks_count": 2,
       "chunks": [
         {
-          "file": "data/chunks/synchronized-playback-sync-play-feature-4412065189267__chunk_001.md",
-          "tokens": 500,
-          "hash": "571b6b4b449b0a13edcb7f34b59472bd8cff078f6ef687b62f0248e3f60a9d2c",
+          "file": "data/chunks/4412065189267-Synchronized-playback-Sync-Play-feature__chunk_001.md",
+          "tokens": 478,
+          "hash": "3cc29803697117c1f324cc14125acf855eae627a9134ae08a426cf85fbd4c8ff",
           "chunk_index": 1,
           "chunk_count": 2
         },
         {
-          "file": "data/chunks/synchronized-playback-sync-play-feature-4412065189267__chunk_002.md",
-          "tokens": 183,
-          "hash": "9267a004f6c8753256916d88567e18058f5ef257dca4c70c092052b186c7b39c",
+          "file": "data/chunks/4412065189267-Synchronized-playback-Sync-Play-feature__chunk_002.md",
+          "tokens": 135,
+          "hash": "f181c161c89c1885a5e15e4e2907db180574f756382e652f2134a3f145d6e8f6",
           "chunk_index": 2,
           "chunk_count": 2
         }
@@ -1136,58 +1087,58 @@
       "title": "Setting Up Your Samsung Smart Signage Platform (SSSP - Commercial Grade)",
       "url": "https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade",
       "updated_at": "2026-06-10T11:03:57Z",
-      "file": "data/articles/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283.md",
-      "tokens": 2128,
-      "hash": "dc408a425185f79f21be91c9bd20c95a65224fdf5dea573d2351da00ea76a04f",
+      "file": "data/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade.md",
+      "tokens": 2110,
+      "hash": "b2b8a385e92bf75672c9d4595cacb81e78c0477c78ff71444e451cb99588a26e",
       "status": "scraped",
       "chunks_count": 7,
       "chunks": [
         {
-          "file": "data/chunks/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283__chunk_001.md",
-          "tokens": 517,
-          "hash": "195679e0fec91fea99477ddb1b756cea8037a71936dce7c3efd53d53a5c56f02",
+          "file": "data/chunks/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade__chunk_001.md",
+          "tokens": 437,
+          "hash": "77fc2b96b9602aca71e25885aa3d76cbe197b6ad310abecc7faa55a7ecef62c5",
           "chunk_index": 1,
           "chunk_count": 7
         },
         {
-          "file": "data/chunks/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283__chunk_002.md",
-          "tokens": 508,
-          "hash": "98d92a3e022037130f4d8159d874c94f1c570fa4e88dbf9d644b5ced7349f48d",
+          "file": "data/chunks/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade__chunk_002.md",
+          "tokens": 515,
+          "hash": "ace354687a5e4dab5743cf2805d49c68c042892f18ec5a7eeb01da68a9faa32c",
           "chunk_index": 2,
           "chunk_count": 7
         },
         {
-          "file": "data/chunks/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283__chunk_003.md",
-          "tokens": 309,
-          "hash": "d5213fd98c213152e5bc650535e6783b071db9b26164ee649ac16a3984b175c7",
+          "file": "data/chunks/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade__chunk_003.md",
+          "tokens": 316,
+          "hash": "bd6b0d2f675820bdc75f2c70f74f30cd6c247d770108a5679356749aa6854a67",
           "chunk_index": 3,
           "chunk_count": 7
         },
         {
-          "file": "data/chunks/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283__chunk_004.md",
-          "tokens": 335,
-          "hash": "4ebd2daab5bec38318cd9f0a76584a446a1cfd472ae16ef17c57ea101a595d29",
+          "file": "data/chunks/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade__chunk_004.md",
+          "tokens": 342,
+          "hash": "1fd2861e25d1b3d4e354380e38ca56bb4f5956b2c82ebe5e649a0b39785dc2d4",
           "chunk_index": 4,
           "chunk_count": 7
         },
         {
-          "file": "data/chunks/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283__chunk_005.md",
-          "tokens": 503,
-          "hash": "b82a710ec477c0b729345f815b78fd7278245d9c74b68983ea501633524b69ba",
+          "file": "data/chunks/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade__chunk_005.md",
+          "tokens": 510,
+          "hash": "c3dc63c59c7b693042024c0059211bc715cf8c4451a259619597a630c8681953",
           "chunk_index": 5,
           "chunk_count": 7
         },
         {
-          "file": "data/chunks/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283__chunk_006.md",
-          "tokens": 489,
-          "hash": "324e7d0534a4879aff78192beb04f7af5e505ae7d7bbe4e5c034e3242c9650c2",
+          "file": "data/chunks/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade__chunk_006.md",
+          "tokens": 496,
+          "hash": "97fd40ff96a14c46e8ed1ae75a56ba6c7cdc950c2d01fe9a0d4d331a364f2a8c",
           "chunk_index": 6,
           "chunk_count": 7
         },
         {
-          "file": "data/chunks/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283__chunk_007.md",
-          "tokens": 165,
-          "hash": "2498b3fcce0c0611ed997fbe3fb680fd410e49060413a2a0f1b84dd028f4e7fc",
+          "file": "data/chunks/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade__chunk_007.md",
+          "tokens": 172,
+          "hash": "dcdd5a30aa8fab5118f52e11f149577dd391d31f6b431ca27d158fd19dbf110b",
           "chunk_index": 7,
           "chunk_count": 7
         }
@@ -1196,793 +1147,744 @@
   ],
   "chunks": [
     {
-      "file": "data/chunks/my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration-360035538093__chunk_001.md",
-      "tokens": 491,
-      "hash": "7b451ba88854f4fb418e3dd7a98425259b131b040d8c1f196d83051afbfac048",
-      "chunk_index": 1,
-      "chunk_count": 2
-    },
-    {
-      "file": "data/chunks/my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration-360035538093__chunk_002.md",
-      "tokens": 197,
-      "hash": "f4df4607c7bfbb6e3aa2c29613f29662a1c186c5305e6c32dda6a370e40a0240",
-      "chunk_index": 2,
-      "chunk_count": 2
-    },
-    {
-      "file": "data/chunks/ai-camera-app-quick-start-27690296225555__chunk_001.md",
-      "tokens": 480,
-      "hash": "87934509aa0494e54b573cd860d85b043b02ea776197a8e8b1b54da564eeff48",
-      "chunk_index": 1,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/ai-camera-app-quick-start-27690296225555__chunk_002.md",
-      "tokens": 311,
-      "hash": "61db122e15696e22cfaaf52286eb6508f0b7f0c7589c20dea9af06efd12e01f8",
-      "chunk_index": 2,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/ai-camera-app-quick-start-27690296225555__chunk_003.md",
-      "tokens": 486,
-      "hash": "f2109f3d8c5943357c82ec903ab1e6a85674f88e34b5b769c907826cf89d1070",
-      "chunk_index": 3,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/ai-camera-app-quick-start-27690296225555__chunk_004.md",
-      "tokens": 490,
-      "hash": "6eb9cc109fb28aa849902f965df86305904adda0f345b523087aac79b75c4495",
-      "chunk_index": 4,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/ai-camera-app-quick-start-27690296225555__chunk_005.md",
-      "tokens": 415,
-      "hash": "f043722207219d9a12c2e75cf69a65a49a72f3d959cf5ff2449c112d549f561d",
-      "chunk_index": 5,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/ai-camera-app-quick-start-27690296225555__chunk_006.md",
-      "tokens": 335,
-      "hash": "37c71ee570a9f21c7cf51c534cf5678f16d6bb908013e88d0b87a0185adb3693",
-      "chunk_index": 6,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/engage-plan-faqs-23565267463315__chunk_001.md",
-      "tokens": 481,
-      "hash": "2518c4aeab7eeb86c98e8799485809eadd3aeece36c21fadac2d7251f8ca87d9",
-      "chunk_index": 1,
-      "chunk_count": 2
-    },
-    {
-      "file": "data/chunks/engage-plan-faqs-23565267463315__chunk_002.md",
-      "tokens": 374,
-      "hash": "b89e9c56b9395002673c9b9631723c775a7710c453fc2115e33837d7e8c1c152",
-      "chunk_index": 2,
-      "chunk_count": 2
-    },
-    {
-      "file": "data/chunks/how-to-re-encode-video-files-for-better-compatibility-on-your-devices-360042143753__chunk_001.md",
-      "tokens": 520,
-      "hash": "6cf32f2a5bb005772dd9f961fb77cfdd080361be2b4c0f2a231806362ae15514",
-      "chunk_index": 1,
-      "chunk_count": 1
-    },
-    {
-      "file": "data/chunks/how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv-360055328454__chunk_001.md",
-      "tokens": 441,
-      "hash": "80afd87ec28bd286fbd40ba9b47138b177bb2e33e2059501567328bc6c91dba4",
-      "chunk_index": 1,
-      "chunk_count": 1
-    },
-    {
-      "file": "data/chunks/how-can-i-remove-delete-uploaded-files-or-assets-360025661053__chunk_001.md",
-      "tokens": 259,
-      "hash": "bcab88e3c9b16ea45d2f3a56c6fec43f6c795e085252a2e6f17149041631d2ca",
-      "chunk_index": 1,
-      "chunk_count": 1
-    },
-    {
-      "file": "data/chunks/how-to-share-playlist-and-folder-with-external-users-21708242980755__chunk_001.md",
-      "tokens": 458,
-      "hash": "86d3c7a4b87f105a8ddffc13290124112c3bbf3b4bc9206bad44b8eefd881238",
-      "chunk_index": 1,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/how-to-share-playlist-and-folder-with-external-users-21708242980755__chunk_002.md",
-      "tokens": 507,
-      "hash": "6d14aaaeeb727c67482c62d393e6854883d465172cab10a0d2d710717bc68f17",
-      "chunk_index": 2,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/how-to-share-playlist-and-folder-with-external-users-21708242980755__chunk_003.md",
-      "tokens": 442,
-      "hash": "ae6516add7940c1f57351d90583022b27cc63cfc893782234d2e37ee2bfda1ba",
-      "chunk_index": 3,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_001.md",
-      "tokens": 495,
-      "hash": "679e48acfafa5d69b1b615aa038fc484bdcf560803573eda7245f90dd447db76",
-      "chunk_index": 1,
-      "chunk_count": 11
-    },
-    {
-      "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_002.md",
-      "tokens": 484,
-      "hash": "b875a4fad88c4771b4135cf735d6afffe4b78cd153b25b26c0988e81487ca5f4",
-      "chunk_index": 2,
-      "chunk_count": 11
-    },
-    {
-      "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_003.md",
-      "tokens": 125,
-      "hash": "785d432b716deb3dc78175cd3f146f41994536d7f29b508eb3739e2de7576399",
-      "chunk_index": 3,
-      "chunk_count": 11
-    },
-    {
-      "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_004.md",
-      "tokens": 499,
-      "hash": "03767c503356cb8b6b251fec1e9d74de524aea3f413d2e1c2379098d85464402",
-      "chunk_index": 4,
-      "chunk_count": 11
-    },
-    {
-      "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_005.md",
-      "tokens": 478,
-      "hash": "6f139c24496c3ff6294669ff1c6165af5c94f20b363f059f25fead4f09437051",
-      "chunk_index": 5,
-      "chunk_count": 11
-    },
-    {
-      "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_006.md",
-      "tokens": 460,
-      "hash": "6155303bbedd18fd9d1d3b428462763949fadfcbaf7f72c21217187bdfd9889a",
-      "chunk_index": 6,
-      "chunk_count": 11
-    },
-    {
-      "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_007.md",
-      "tokens": 495,
-      "hash": "bea022bf0e6047dbbd2b080eca75025270cefea0f9f920880dd6bb3242a84b65",
-      "chunk_index": 7,
-      "chunk_count": 11
-    },
-    {
-      "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_008.md",
-      "tokens": 468,
-      "hash": "d37c8ccf70477557edddfaa34302e7eead74f538f847ceb9b50f896eb889cb96",
-      "chunk_index": 8,
-      "chunk_count": 11
-    },
-    {
-      "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_009.md",
-      "tokens": 445,
-      "hash": "f5be1ffee0ec60de450ede3c47620ded677a98f9e90e2ec5833f2910e498a1b7",
-      "chunk_index": 9,
-      "chunk_count": 11
-    },
-    {
-      "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_010.md",
-      "tokens": 502,
-      "hash": "fb405c8282e1ec465c23045a869f317c95d481095e695ea9cc07ca8485db0be2",
-      "chunk_index": 10,
-      "chunk_count": 11
-    },
-    {
-      "file": "data/chunks/optistick-troubleshooting-guide-40147900639891__chunk_011.md",
-      "tokens": 323,
-      "hash": "6777771d4b3bb21aeb689d76a66698a9f4b6c49f0546a2c3696728ffd4d67a18",
-      "chunk_index": 11,
-      "chunk_count": 11
-    },
-    {
-      "file": "data/chunks/optistick-27267311796243__chunk_001.md",
-      "tokens": 466,
-      "hash": "28bd15ecf19cd4e1d703f481eff4c649b519ab495bdeea535ce3eb31e6c2bb2b",
-      "chunk_index": 1,
-      "chunk_count": 4
-    },
-    {
-      "file": "data/chunks/optistick-27267311796243__chunk_002.md",
-      "tokens": 474,
-      "hash": "3a66c64da9eea018f988bc5eaa54587e279a03565bd14cf9fb29b45ba45b3626",
-      "chunk_index": 2,
-      "chunk_count": 4
-    },
-    {
-      "file": "data/chunks/optistick-27267311796243__chunk_003.md",
-      "tokens": 415,
-      "hash": "16e0aaec5a8e17f04aaa3640d29d83a4a06001f14773eefad60d0033bc1803b9",
-      "chunk_index": 3,
-      "chunk_count": 4
-    },
-    {
-      "file": "data/chunks/optistick-27267311796243__chunk_004.md",
-      "tokens": 252,
-      "hash": "3c11b7a13ce9ada89bd9053304edcc72c731339626fef8fbdecf4390450a4de7",
-      "chunk_index": 4,
-      "chunk_count": 4
-    },
-    {
-      "file": "data/chunks/how-to-use-website-screenshot-app-10259143299219__chunk_001.md",
-      "tokens": 348,
-      "hash": "d9825f754042abbc0c97ae94e0f3d4f490b5b644b51253977259e28feff59fe4",
-      "chunk_index": 1,
-      "chunk_count": 2
-    },
-    {
-      "file": "data/chunks/how-to-use-website-screenshot-app-10259143299219__chunk_002.md",
-      "tokens": 367,
-      "hash": "bc6213b1b4aedcbf3570798dbc155a76b09da7cc17acd67dcf20ef6e7505ee32",
-      "chunk_index": 2,
-      "chunk_count": 2
-    },
-    {
-      "file": "data/chunks/how-to-display-content-inside-websites-that-require-login-360037391854__chunk_001.md",
-      "tokens": 461,
-      "hash": "3bd12242542afac8ce4f972f835c3d3418fbe1b98cffdeb0df4e3f9bce1ec4f3",
-      "chunk_index": 1,
-      "chunk_count": 2
-    },
-    {
-      "file": "data/chunks/how-to-display-content-inside-websites-that-require-login-360037391854__chunk_002.md",
-      "tokens": 199,
-      "hash": "ac6682d632a6bb66cedd4b168a26614f45e741fd0007733a3ca93df33dfa03e8",
-      "chunk_index": 2,
-      "chunk_count": 2
-    },
-    {
-      "file": "data/chunks/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483__chunk_001.md",
-      "tokens": 436,
-      "hash": "f3859e423519330ed8c246ec3ea1906060a54bae29d70aa5a530316880ab0ca0",
-      "chunk_index": 1,
-      "chunk_count": 7
-    },
-    {
-      "file": "data/chunks/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483__chunk_002.md",
-      "tokens": 518,
-      "hash": "e16778da45504d7e2aceb5e4bdfa97c10ec6cf7b2958b4ec153433d839a1f207",
-      "chunk_index": 2,
-      "chunk_count": 7
-    },
-    {
-      "file": "data/chunks/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483__chunk_003.md",
-      "tokens": 486,
-      "hash": "054898b0d51d4d02e4e63095de936725b832194bb8b4cdbb89d897338af8136a",
-      "chunk_index": 3,
-      "chunk_count": 7
-    },
-    {
-      "file": "data/chunks/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483__chunk_004.md",
-      "tokens": 492,
-      "hash": "818b702ab9fe50f90be06473715c73367a825653ba40827157a461356699f378",
-      "chunk_index": 4,
-      "chunk_count": 7
-    },
-    {
-      "file": "data/chunks/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483__chunk_005.md",
-      "tokens": 514,
-      "hash": "8a6b47899fdb8b9ac114d9b7c26c6ab8cd6dfd3be1e74f1249b42b406b99d2bc",
-      "chunk_index": 5,
-      "chunk_count": 7
-    },
-    {
-      "file": "data/chunks/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483__chunk_006.md",
-      "tokens": 476,
-      "hash": "095cc794711e1e6cbba025cd460936ec4a218d8d6e479f143378b008846cea22",
-      "chunk_index": 6,
-      "chunk_count": 7
-    },
-    {
-      "file": "data/chunks/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483__chunk_007.md",
-      "tokens": 369,
-      "hash": "9bc9f88c3285720472b02ff7310b245fc306c04cbb4d073552d893ff8a98c320",
-      "chunk_index": 7,
-      "chunk_count": 7
-    },
-    {
-      "file": "data/chunks/how-to-manage-sub-account-billing-with-optisigns-17129313173395__chunk_001.md",
-      "tokens": 499,
-      "hash": "a06dd88ed134ccb77915ffbb7f76d14d0ea76edcffd4eb17c1204463575ebc74",
-      "chunk_index": 1,
-      "chunk_count": 2
-    },
-    {
-      "file": "data/chunks/how-to-manage-sub-account-billing-with-optisigns-17129313173395__chunk_002.md",
-      "tokens": 315,
-      "hash": "aed54a29891863a338c5123699f07aaf66c13f0754648d506a7d748cf5cd6943",
-      "chunk_index": 2,
-      "chunk_count": 2
-    },
-    {
-      "file": "data/chunks/how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes-4404151402899__chunk_001.md",
-      "tokens": 528,
-      "hash": "c19f39e7800d0fa0d4ab79d81252dcd53f3f3e3a28219a0ec5dbf74824fc46c4",
-      "chunk_index": 1,
-      "chunk_count": 4
-    },
-    {
-      "file": "data/chunks/how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes-4404151402899__chunk_002.md",
-      "tokens": 535,
-      "hash": "b700a0e5639db732c4a271d6efc7d21aa13cb5c9677550fa912c78bc3cf23fdc",
-      "chunk_index": 2,
-      "chunk_count": 4
-    },
-    {
-      "file": "data/chunks/how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes-4404151402899__chunk_003.md",
-      "tokens": 517,
-      "hash": "28231cf694b2372c8b5d33d6a708d7a1e5c18f00e28c0026cd2fb5205694d569",
-      "chunk_index": 3,
-      "chunk_count": 4
-    },
-    {
-      "file": "data/chunks/how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes-4404151402899__chunk_004.md",
-      "tokens": 427,
-      "hash": "2750fb73cd8604507d91338c4dd60e8b554039fcbc86574034bb8301de3b4307",
-      "chunk_index": 4,
-      "chunk_count": 4
-    },
-    {
-      "file": "data/chunks/how-to-install-an-apk-file-on-your-fire-tv-360016313754__chunk_001.md",
-      "tokens": 452,
-      "hash": "b8c88614f6be5aa85d3579a71fcd8c11e559e4c92eba49137302c8d60273ee07",
-      "chunk_index": 1,
-      "chunk_count": 2
-    },
-    {
-      "file": "data/chunks/how-to-install-an-apk-file-on-your-fire-tv-360016313754__chunk_002.md",
-      "tokens": 225,
-      "hash": "d642bfd3aa07105606fb3979530fbcd3c21e57d9d27c48f2d3f0704d36de68a6",
-      "chunk_index": 2,
-      "chunk_count": 2
-    },
-    {
-      "file": "data/chunks/how-to-use-youtube-with-optisigns-360051014713__chunk_001.md",
-      "tokens": 437,
-      "hash": "e626f6e5cc0f1f1672061eaa193d6101d19bdc8b4b5644a3c247c6c9f1989ec8",
-      "chunk_index": 1,
-      "chunk_count": 2
-    },
-    {
-      "file": "data/chunks/how-to-use-youtube-with-optisigns-360051014713__chunk_002.md",
-      "tokens": 427,
-      "hash": "ef54316b47ca665b154099be2a68519feddfff9d579aa7b97fe20f83902b68ce",
-      "chunk_index": 2,
-      "chunk_count": 2
-    },
-    {
-      "file": "data/chunks/whitelist-optisigns-ip-addresses-ports-360047275934__chunk_001.md",
-      "tokens": 485,
-      "hash": "0dbaa10434962781a078d4b8cd91f025363ff31b1d0d68153f7403aa41d7d5c6",
-      "chunk_index": 1,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/whitelist-optisigns-ip-addresses-ports-360047275934__chunk_002.md",
-      "tokens": 493,
-      "hash": "c46c6dcee8166a94d6db823b3d1166514144342afa386173ad75ed10c51ed656",
-      "chunk_index": 2,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/whitelist-optisigns-ip-addresses-ports-360047275934__chunk_003.md",
-      "tokens": 113,
-      "hash": "a1f4f4538e135a355fd47989943bc1588db1861a50e36b6ac672e387a7dd5d28",
-      "chunk_index": 3,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/room-integrations-turn-your-meeting-rooms-into-digital-signage-52113036672403__chunk_001.md",
-      "tokens": 314,
-      "hash": "47bd131056f1c9b63b106ca1397774820eba4fd245aa5f6767aee99e76e69fbc",
-      "chunk_index": 1,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/room-integrations-turn-your-meeting-rooms-into-digital-signage-52113036672403__chunk_002.md",
-      "tokens": 471,
-      "hash": "fe82b30a4086f3737907251c8b80aa63cf41cacb2ec1755bdd8842f865a44a36",
-      "chunk_index": 2,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/room-integrations-turn-your-meeting-rooms-into-digital-signage-52113036672403__chunk_003.md",
-      "tokens": 520,
-      "hash": "01e4fb65b28da664a738fcc2689b234ec078470392c7972cecd6fdefce681076",
-      "chunk_index": 3,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/room-integrations-turn-your-meeting-rooms-into-digital-signage-52113036672403__chunk_004.md",
-      "tokens": 412,
-      "hash": "0d1d38df905a8267ee8cd4b9b92d57e37fa2bb3bc49dae0ed5a5bee06f33cb3f",
-      "chunk_index": 4,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/room-integrations-turn-your-meeting-rooms-into-digital-signage-52113036672403__chunk_005.md",
-      "tokens": 516,
-      "hash": "8b1aebc468b273d6314d5a16a6418660d5478cfb8f85d00cca9ce185ece78b6d",
-      "chunk_index": 5,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/room-integrations-turn-your-meeting-rooms-into-digital-signage-52113036672403__chunk_006.md",
-      "tokens": 318,
-      "hash": "abbfe996540a28085e697117f60abade01ce6aaa79bf0940eede5faf3256b46b",
-      "chunk_index": 6,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-google-meet-hardware-to-optisigns-digital-signage-52412502456083__chunk_001.md",
-      "tokens": 434,
-      "hash": "14e27a97ee2bb8adbbed7ee8b2c521ac305cc05e9dc637a3d89b1dd2f97dc2f0",
-      "chunk_index": 1,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-google-meet-hardware-to-optisigns-digital-signage-52412502456083__chunk_002.md",
-      "tokens": 509,
-      "hash": "377541dcb080042e6fbb09c7d3f06c62aae00b56ad99f075c5b107e4dadc73cd",
-      "chunk_index": 2,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-google-meet-hardware-to-optisigns-digital-signage-52412502456083__chunk_003.md",
-      "tokens": 499,
-      "hash": "a26fec65ff8cb6215459879b8d118a96d5f938236a0a6afaa6eb231a2f3ef5cc",
-      "chunk_index": 3,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-google-meet-hardware-to-optisigns-digital-signage-52412502456083__chunk_004.md",
-      "tokens": 480,
-      "hash": "40bea7e583d236c4d5350992f25256fc8088e1d36f883abb55599b4ba7740739",
-      "chunk_index": 4,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-google-meet-hardware-to-optisigns-digital-signage-52412502456083__chunk_005.md",
-      "tokens": 507,
-      "hash": "addfa730c74b50b9988149e8ab895ce01cd035b7e1ef9b05a0fcf3fa1e016d21",
-      "chunk_index": 5,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-google-meet-hardware-to-optisigns-digital-signage-52412502456083__chunk_006.md",
-      "tokens": 468,
-      "hash": "140c69f161481e533dde45e9042617b0fe3a76587155e1a36dfef0ca2b160331",
-      "chunk_index": 6,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-cisco-webex-rooms-to-optisigns-digital-signage-51343184586643__chunk_001.md",
-      "tokens": 471,
-      "hash": "dffe40542ae1e7f195164f28f0857f27ad74bf87cb6051f98e7686f1722fd5b8",
-      "chunk_index": 1,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-cisco-webex-rooms-to-optisigns-digital-signage-51343184586643__chunk_002.md",
-      "tokens": 435,
-      "hash": "e084a81e2584893032c3f0d28022023a5d03f6d4c4419982d05ff7961d240c65",
-      "chunk_index": 2,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-cisco-webex-rooms-to-optisigns-digital-signage-51343184586643__chunk_003.md",
-      "tokens": 516,
-      "hash": "78090c02a47f699ffc38ef51609ecb118426cf09751c00720589c31bebd2fef9",
-      "chunk_index": 3,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-cisco-webex-rooms-to-optisigns-digital-signage-51343184586643__chunk_004.md",
-      "tokens": 518,
-      "hash": "e0638769e9e9d75d3b9bf5b4a959aa619834796ede463a31a61963f36ed1ea8a",
-      "chunk_index": 4,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-cisco-webex-rooms-to-optisigns-digital-signage-51343184586643__chunk_005.md",
-      "tokens": 484,
-      "hash": "9ebb1db44a350a043b3b2c7034735d9ef6e3fb66b8f4d7ff7912bc41f7aff055",
-      "chunk_index": 5,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-cisco-webex-rooms-to-optisigns-digital-signage-51343184586643__chunk_006.md",
-      "tokens": 206,
-      "hash": "9aab0231bb0bc8e4098110c2835cd39de0957aeedccf26cd8177f165591fde4a",
-      "chunk_index": 6,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/how-to-use-rss-feeds-with-optisigns-360037965133__chunk_001.md",
-      "tokens": 501,
-      "hash": "2e8401c1857d94146551c2c9f09b2eb153e269aced4375e3ed4ab4d4757c9116",
-      "chunk_index": 1,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/how-to-use-rss-feeds-with-optisigns-360037965133__chunk_002.md",
-      "tokens": 483,
-      "hash": "41eb96734aef6074b271f619a5044a842677c27c1865ec5559f83286a4039fa1",
-      "chunk_index": 2,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/how-to-use-rss-feeds-with-optisigns-360037965133__chunk_003.md",
-      "tokens": 309,
-      "hash": "434717ecc4f945a495174bbaa1a5ca75bb358b9542e02fbb8286503ac20df4bf",
-      "chunk_index": 3,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/how-to-use-the-data-studio-app-360052088413__chunk_001.md",
-      "tokens": 458,
-      "hash": "7b0902178180bc6e1a2ac5be69068801c6ee63d57a0e8794e8593bc9a942f8bc",
-      "chunk_index": 1,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/how-to-use-the-data-studio-app-360052088413__chunk_002.md",
-      "tokens": 486,
-      "hash": "481630b1d3bb04536ecd5322fdeac1c8e756b4c6a972f88ce4e106e06eadfaed",
-      "chunk_index": 2,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/how-to-use-the-data-studio-app-360052088413__chunk_003.md",
-      "tokens": 378,
-      "hash": "7fa66b676b4f0aef9b1f25bb9469f2503ce3a955ed35e9b39d8c3c0ca62e774f",
-      "chunk_index": 3,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app-52523606879251__chunk_001.md",
-      "tokens": 322,
-      "hash": "ecc52f55abfc4ec78b7ebc5e78b5b19189f790fd5985f63614a1c675b4c1ab80",
-      "chunk_index": 1,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app-52523606879251__chunk_002.md",
-      "tokens": 513,
-      "hash": "bfb14319375d17bb89dc571d531d01d8ba692918575def263c2faa80bb91154d",
-      "chunk_index": 2,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app-52523606879251__chunk_003.md",
-      "tokens": 467,
-      "hash": "1c3a542bb21216d913e2099de0471e767c2d869ab1dc7abe64469e9e9361044d",
-      "chunk_index": 3,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app-52523606879251__chunk_004.md",
-      "tokens": 503,
-      "hash": "7031501e4a7af1667f1dab454838e111502a74d6532e1e3a4154a4e4e456850c",
-      "chunk_index": 4,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app-52523606879251__chunk_005.md",
+      "file": "data/chunks/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration__chunk_001.md",
       "tokens": 504,
-      "hash": "f328cc40103a73ac01987fdabb0d83ce5cff0784cce571c333cf26a1bf3c7558",
-      "chunk_index": 5,
-      "chunk_count": 6
+      "hash": "3654b7a9f63c480062b17fba2dffd91845e228a5c701974ef57a772be338b482",
+      "chunk_index": 1,
+      "chunk_count": 1
     },
     {
-      "file": "data/chunks/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app-52523606879251__chunk_006.md",
-      "tokens": 254,
-      "hash": "ecb1815a662457a64ed5b4fafc09e379df7f7c6e0874f396dc2fbae7646ba561",
-      "chunk_index": 6,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-zoom-rooms-to-optisigns-digital-signage-52069065128723__chunk_001.md",
-      "tokens": 498,
-      "hash": "56aea6ac6f7a098da658883d3ce6ee4f42fc2f859c10f1c23191dc6eb356897b",
+      "file": "data/chunks/27690296225555-AI-Camera-App-Quick-Start__chunk_001.md",
+      "tokens": 480,
+      "hash": "ed871779f1d4d97ab4e1f9d7caf516d7b6febfe69af260af8cbf061d76a76aad",
       "chunk_index": 1,
       "chunk_count": 6
     },
     {
-      "file": "data/chunks/connect-zoom-rooms-to-optisigns-digital-signage-52069065128723__chunk_002.md",
+      "file": "data/chunks/27690296225555-AI-Camera-App-Quick-Start__chunk_002.md",
+      "tokens": 250,
+      "hash": "a913b413cabe36c3b580b252237866e534d2e103f2126ffcd2b8b82635e08ac2",
+      "chunk_index": 2,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/27690296225555-AI-Camera-App-Quick-Start__chunk_003.md",
+      "tokens": 489,
+      "hash": "13ba5453b49445c91bdc50dbb77d67b556c0087cf77f48f00d72f7712a47114b",
+      "chunk_index": 3,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/27690296225555-AI-Camera-App-Quick-Start__chunk_004.md",
+      "tokens": 493,
+      "hash": "e1f756ef537b76a4f4a27ca37df408eb66434865953d1ca886efb96a191fbd5f",
+      "chunk_index": 4,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/27690296225555-AI-Camera-App-Quick-Start__chunk_005.md",
+      "tokens": 418,
+      "hash": "513ff8aacc3057114c9765f875d49194e3280f223d7c9567987b9eca23e12949",
+      "chunk_index": 5,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/27690296225555-AI-Camera-App-Quick-Start__chunk_006.md",
+      "tokens": 338,
+      "hash": "256651579378a71fab61b3516afae29443a0eaae2555f3b3cc1082f54f629a6e",
+      "chunk_index": 6,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/23565267463315-Engage-Plan-FAQs__chunk_001.md",
+      "tokens": 475,
+      "hash": "67d414c9b6190f6d0166a46a70730096e12f843cf40bf6d3d35288a3c543553e",
+      "chunk_index": 1,
+      "chunk_count": 2
+    },
+    {
+      "file": "data/chunks/23565267463315-Engage-Plan-FAQs__chunk_002.md",
+      "tokens": 322,
+      "hash": "9122d228ce596c0b8d5f8f530ccd73f90e20fcc3666a927fd14d7a291a48f2de",
+      "chunk_index": 2,
+      "chunk_count": 2
+    },
+    {
+      "file": "data/chunks/360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices__chunk_001.md",
+      "tokens": 440,
+      "hash": "4a966459dc4b9310d3922a287a158df7f60549e24dfe487677d1b070fcd99c77",
+      "chunk_index": 1,
+      "chunk_count": 1
+    },
+    {
+      "file": "data/chunks/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV__chunk_001.md",
+      "tokens": 362,
+      "hash": "beb48adcd23ee6c59cd2032f60e6f609f4b400ffb0dc7c1a5cfe4396cffce842",
+      "chunk_index": 1,
+      "chunk_count": 1
+    },
+    {
+      "file": "data/chunks/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets__chunk_001.md",
+      "tokens": 190,
+      "hash": "48bae6fe7f2d9fa4475269878d48074ee3a20ee5f740be583a3f097cbcb06adc",
+      "chunk_index": 1,
+      "chunk_count": 1
+    },
+    {
+      "file": "data/chunks/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users__chunk_001.md",
+      "tokens": 386,
+      "hash": "9a78fddeb5c20863ac038ebc0944214b8a1f0057ad434f9e1995ba549cb4dc5c",
+      "chunk_index": 1,
+      "chunk_count": 3
+    },
+    {
+      "file": "data/chunks/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users__chunk_002.md",
+      "tokens": 511,
+      "hash": "cddeac2f7756c2e239a0809eb112e90ba102379f004ac2454a1d59e0448e0558",
+      "chunk_index": 2,
+      "chunk_count": 3
+    },
+    {
+      "file": "data/chunks/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users__chunk_003.md",
+      "tokens": 446,
+      "hash": "8307f4d146991d2c455aeec2701d497fa1786762bbf317075d2b5ed53812a588",
+      "chunk_index": 3,
+      "chunk_count": 3
+    },
+    {
+      "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_001.md",
+      "tokens": 488,
+      "hash": "cc720f98c92479354620ef021e9894af5b31bfcec4603f88591349cc81b1cd66",
+      "chunk_index": 1,
+      "chunk_count": 10
+    },
+    {
+      "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_002.md",
+      "tokens": 468,
+      "hash": "39cee32df03414156d29ae658304ff36fc9a7fa0693eca9ad2d12fe8e4f4912f",
+      "chunk_index": 2,
+      "chunk_count": 10
+    },
+    {
+      "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_003.md",
+      "tokens": 502,
+      "hash": "0954f73b442d8fbfb5d2ba2a0c696120f46eb2d0df5d2ee6e490b9ac23cc3669",
+      "chunk_index": 3,
+      "chunk_count": 10
+    },
+    {
+      "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_004.md",
+      "tokens": 481,
+      "hash": "cd24b457a7ba336ef6e5fcae9241d03754bde4a180c37f021f5471586d683eea",
+      "chunk_index": 4,
+      "chunk_count": 10
+    },
+    {
+      "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_005.md",
       "tokens": 463,
-      "hash": "750c3e4cb55b9aebdd3ed4435ae926aa8075662de0fd0bfedab3ee601af5160f",
-      "chunk_index": 2,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-zoom-rooms-to-optisigns-digital-signage-52069065128723__chunk_003.md",
-      "tokens": 493,
-      "hash": "66fe980578eba78bacdb188e7b24a5b3cd3142dbf4194fef59a97fd795dda63f",
-      "chunk_index": 3,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-zoom-rooms-to-optisigns-digital-signage-52069065128723__chunk_004.md",
-      "tokens": 506,
-      "hash": "f7e78978ddab31ba0af50409601f120a43d1f9e5fefa9d9bcbf6973ff93ed724",
-      "chunk_index": 4,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/connect-zoom-rooms-to-optisigns-digital-signage-52069065128723__chunk_005.md",
-      "tokens": 510,
-      "hash": "321e28a8d022233d4346b83b719a46dadb3315eb4a576ffd461665d48a9a01c7",
+      "hash": "a27ece7945d058b690694c7c9e980f1faf15ef5b38e3e71b55aa38dc274997f3",
       "chunk_index": 5,
-      "chunk_count": 6
+      "chunk_count": 10
     },
     {
-      "file": "data/chunks/connect-zoom-rooms-to-optisigns-digital-signage-52069065128723__chunk_006.md",
-      "tokens": 336,
-      "hash": "ab4bc1c29c18d07935d29db7839b6510d8aa891bbbbde94a221c9409e1c7f2ca",
-      "chunk_index": 6,
-      "chunk_count": 6
-    },
-    {
-      "file": "data/chunks/pre-configure-wi-fi-with-optisigns-devices-360055549854__chunk_001.md",
-      "tokens": 361,
-      "hash": "9741fd835de87290d9c920bfa3dc5b6df69bd5323e8856854ee7eee810ed9ab5",
-      "chunk_index": 1,
-      "chunk_count": 1
-    },
-    {
-      "file": "data/chunks/how-to-order-a-preconfigured-optisigns-android-player-device-31960461758611__chunk_001.md",
-      "tokens": 297,
-      "hash": "9e2875759e271453a79a6e1a838c2f300d46a2fbed08244a5aa1b56fd5b52cbd",
-      "chunk_index": 1,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/how-to-order-a-preconfigured-optisigns-android-player-device-31960461758611__chunk_002.md",
-      "tokens": 412,
-      "hash": "78768ac9f18a37ddc089b4d1a1f6c58368f76884b98f3f36f33f7c7b78dac8d2",
-      "chunk_index": 2,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/how-to-order-a-preconfigured-optisigns-android-player-device-31960461758611__chunk_003.md",
-      "tokens": 247,
-      "hash": "88f63fce56fc226aabfe7d635b988a3994f1b79c3fe627a1d29af5221b842753",
-      "chunk_index": 3,
-      "chunk_count": 3
-    },
-    {
-      "file": "data/chunks/cannot-find-the-optisigns-app-on-your-samsung-smart-tv-15268811715347__chunk_001.md",
-      "tokens": 454,
-      "hash": "f4cf9db97910fdd0e3786b752f3b2d8338fb22784a494d4d34aa741f78bd4566",
-      "chunk_index": 1,
-      "chunk_count": 1
-    },
-    {
-      "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_001.md",
-      "tokens": 493,
-      "hash": "f8eb42795bd1644cbe9a713bbe8437c910398fd070fe293ef846b4b804dd6ccf",
-      "chunk_index": 1,
-      "chunk_count": 8
-    },
-    {
-      "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_002.md",
-      "tokens": 514,
-      "hash": "1b1b46e1696dca9f18ba8bc84a23a25995629fc744c16ea6d469d4572142db21",
-      "chunk_index": 2,
-      "chunk_count": 8
-    },
-    {
-      "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_003.md",
+      "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_006.md",
       "tokens": 498,
-      "hash": "ff87ddce4032b6fc6517f539b5537d4991b4e995a33212991657a1fb137854b4",
+      "hash": "7e9e559fb53cf81bf4b7cbf1e0662232a1faefa45b952351746565b4d2dc6b94",
+      "chunk_index": 6,
+      "chunk_count": 10
+    },
+    {
+      "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_007.md",
+      "tokens": 471,
+      "hash": "5366c6116d67886501cc221be1ce46e969cf0abc517daacb23f16344f450f963",
+      "chunk_index": 7,
+      "chunk_count": 10
+    },
+    {
+      "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_008.md",
+      "tokens": 448,
+      "hash": "c6657686fa3d097aa835f6c55539bcb495066e89b777736ee18a2cfcf9d1621b",
+      "chunk_index": 8,
+      "chunk_count": 10
+    },
+    {
+      "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_009.md",
+      "tokens": 505,
+      "hash": "a77241f9af4c62710b85ca870919ab43a100625a5e4808ddc0f40c444331dc48",
+      "chunk_index": 9,
+      "chunk_count": 10
+    },
+    {
+      "file": "data/chunks/40147900639891-OptiStick-Troubleshooting-Guide__chunk_010.md",
+      "tokens": 326,
+      "hash": "2ec32640f4b65a0df49a3cfb54789f0cda79bca5111c7329015d50a7538f6b4f",
+      "chunk_index": 10,
+      "chunk_count": 10
+    },
+    {
+      "file": "data/chunks/27267311796243-OptiStick__chunk_001.md",
+      "tokens": 449,
+      "hash": "ef772009f4e9a2d83cb6107bcac41aad589ee55de7751428e83499e85612bf97",
+      "chunk_index": 1,
+      "chunk_count": 4
+    },
+    {
+      "file": "data/chunks/27267311796243-OptiStick__chunk_002.md",
+      "tokens": 475,
+      "hash": "582866cdaf963efe689678caeeef92f24cea123dbf4cf50c463219516e6217b3",
+      "chunk_index": 2,
+      "chunk_count": 4
+    },
+    {
+      "file": "data/chunks/27267311796243-OptiStick__chunk_003.md",
+      "tokens": 416,
+      "hash": "e2aec2a463743ffc8dedc84528d0d5caead2dd02b2ae3336bed85f283dadbd21",
+      "chunk_index": 3,
+      "chunk_count": 4
+    },
+    {
+      "file": "data/chunks/27267311796243-OptiStick__chunk_004.md",
+      "tokens": 253,
+      "hash": "fc8b9f28520a90d89b18c70b535e2615584fdc22f878df68d20a23056a5661eb",
+      "chunk_index": 4,
+      "chunk_count": 4
+    },
+    {
+      "file": "data/chunks/10259143299219-How-to-use-Website-Screenshot-app__chunk_001.md",
+      "tokens": 473,
+      "hash": "07a711be56d01641c3f105cc5cac5cb9d10b9df9b8df5a764a2001b35829f3eb",
+      "chunk_index": 1,
+      "chunk_count": 2
+    },
+    {
+      "file": "data/chunks/10259143299219-How-to-use-Website-Screenshot-app__chunk_002.md",
+      "tokens": 171,
+      "hash": "2785512a31eefab0774300711c15b8a5b1d55415d7fe91f2c3170011a930a449",
+      "chunk_index": 2,
+      "chunk_count": 2
+    },
+    {
+      "file": "data/chunks/360037391854-How-to-display-content-inside-websites-that-require-login__chunk_001.md",
+      "tokens": 491,
+      "hash": "aad323b05144d516013438e60b982fea68f4b31d2b368bb183403dc3952993e1",
+      "chunk_index": 1,
+      "chunk_count": 1
+    },
+    {
+      "file": "data/chunks/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage__chunk_001.md",
+      "tokens": 469,
+      "hash": "30ee41b7995b487b1020f5a17b70b93d5710c056d5584ac0ee03a3b7d37f59e4",
+      "chunk_index": 1,
+      "chunk_count": 7
+    },
+    {
+      "file": "data/chunks/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage__chunk_002.md",
+      "tokens": 509,
+      "hash": "360a50b3fad744a0ca1340ed32574f88eb30b7db67aec9976e2935bd349168ed",
+      "chunk_index": 2,
+      "chunk_count": 7
+    },
+    {
+      "file": "data/chunks/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage__chunk_003.md",
+      "tokens": 511,
+      "hash": "7b581697be8c81781032381338614c8af3207405c82d33d005f3fe453fd42386",
+      "chunk_index": 3,
+      "chunk_count": 7
+    },
+    {
+      "file": "data/chunks/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage__chunk_004.md",
+      "tokens": 512,
+      "hash": "b50c3f71824d169c4f256c77ad599b0417477664ca030b6ca88a8f04a201d666",
+      "chunk_index": 4,
+      "chunk_count": 7
+    },
+    {
+      "file": "data/chunks/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage__chunk_005.md",
+      "tokens": 505,
+      "hash": "a8733e1d953d74bf6a05d8b3ecffd6bcba1d858a1e6aca0768da27ec5742440e",
+      "chunk_index": 5,
+      "chunk_count": 7
+    },
+    {
+      "file": "data/chunks/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage__chunk_006.md",
+      "tokens": 507,
+      "hash": "ae705a2c1e11ced959d14460c4952f5df692cd88a31ccc31c4a39d105c419623",
+      "chunk_index": 6,
+      "chunk_count": 7
+    },
+    {
+      "file": "data/chunks/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage__chunk_007.md",
+      "tokens": 210,
+      "hash": "e1da0fd4f41d09a5a62aeb804bc489e3c1a11e9401e2f191792d4bba0921b370",
+      "chunk_index": 7,
+      "chunk_count": 7
+    },
+    {
+      "file": "data/chunks/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns__chunk_001.md",
+      "tokens": 510,
+      "hash": "874fa6bb420f10d52197b2279ddf217a551ac82a60b5cd7a458187528dab5270",
+      "chunk_index": 1,
+      "chunk_count": 2
+    },
+    {
+      "file": "data/chunks/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns__chunk_002.md",
+      "tokens": 258,
+      "hash": "adf06e1b19f2d9706de12f8dca97f4400bc8ec503ee5517e5e30e0fd180298c5",
+      "chunk_index": 2,
+      "chunk_count": 2
+    },
+    {
+      "file": "data/chunks/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes__chunk_001.md",
+      "tokens": 534,
+      "hash": "5c1712d6baf14a1bf3ddefa2dfd8811d2ef08376e2e4521d8182574c81b8f734",
+      "chunk_index": 1,
+      "chunk_count": 4
+    },
+    {
+      "file": "data/chunks/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes__chunk_002.md",
+      "tokens": 536,
+      "hash": "979543b151ae2a1f3ff8e6b36533bfc3b59ae3224353df6f8dbaa060950b1cfd",
+      "chunk_index": 2,
+      "chunk_count": 4
+    },
+    {
+      "file": "data/chunks/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes__chunk_003.md",
+      "tokens": 524,
+      "hash": "3de79cb146999b34acb5d5c4b770bcf83f2ce49edfd60cff558aa211397e0d10",
+      "chunk_index": 3,
+      "chunk_count": 4
+    },
+    {
+      "file": "data/chunks/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes__chunk_004.md",
+      "tokens": 304,
+      "hash": "353082e757ca8a54419ac9ce1d062db963cc353355534dd52178bbee7da8993b",
+      "chunk_index": 4,
+      "chunk_count": 4
+    },
+    {
+      "file": "data/chunks/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV__chunk_001.md",
+      "tokens": 448,
+      "hash": "b0ca2d0905b89bd5391b6e20a6a4cf3e1395c3a1124095c35b828c11285818cb",
+      "chunk_index": 1,
+      "chunk_count": 2
+    },
+    {
+      "file": "data/chunks/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV__chunk_002.md",
+      "tokens": 142,
+      "hash": "ae1a79bb08a69853ebb9d71de92565952003b18995e5ae23a0c80c6ac6bc85ee",
+      "chunk_index": 2,
+      "chunk_count": 2
+    },
+    {
+      "file": "data/chunks/360051014713-How-to-use-YouTube-with-OptiSigns__chunk_001.md",
+      "tokens": 369,
+      "hash": "71ad2b1f04e899acf1d8aa2812044f3fbf07ed27668a9919afad07af1805aa66",
+      "chunk_index": 1,
+      "chunk_count": 2
+    },
+    {
+      "file": "data/chunks/360051014713-How-to-use-YouTube-with-OptiSigns__chunk_002.md",
+      "tokens": 430,
+      "hash": "0b1a15621cb16c6f96f7fc71dcaa6e48e9bbc343d1f93c607f0631ff72e1dd4e",
+      "chunk_index": 2,
+      "chunk_count": 2
+    },
+    {
+      "file": "data/chunks/360047275934-Whitelist-OptiSigns-IP-addresses-ports__chunk_001.md",
+      "tokens": 467,
+      "hash": "6faa413cd37e10cae56cd161f24239e5077d4a3225be32b90d406a1e9671d3ef",
+      "chunk_index": 1,
+      "chunk_count": 2
+    },
+    {
+      "file": "data/chunks/360047275934-Whitelist-OptiSigns-IP-addresses-ports__chunk_002.md",
+      "tokens": 464,
+      "hash": "80cee9f86cd4c29127855d4eb79d835ccde54bbef4eff1f1d0bb8a868fd9879e",
+      "chunk_index": 2,
+      "chunk_count": 2
+    },
+    {
+      "file": "data/chunks/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage__chunk_001.md",
+      "tokens": 485,
+      "hash": "82b4330851c06efbd5457c17916bf0e8d01318282e7471487c37527426a88f4b",
+      "chunk_index": 1,
+      "chunk_count": 5
+    },
+    {
+      "file": "data/chunks/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage__chunk_002.md",
+      "tokens": 499,
+      "hash": "d67efabebd9bf50dc5c9a93a2867832fc94915846586e4a6122a83a1e0188210",
+      "chunk_index": 2,
+      "chunk_count": 5
+    },
+    {
+      "file": "data/chunks/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage__chunk_003.md",
+      "tokens": 477,
+      "hash": "d194b112661b689415aaeb4604d21a22042b40d9d1e2b9c6db379e321c4aa25c",
+      "chunk_index": 3,
+      "chunk_count": 5
+    },
+    {
+      "file": "data/chunks/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage__chunk_004.md",
+      "tokens": 522,
+      "hash": "b9d9f0a167a36c14ad0a8d0134bceeec76107a971b4fd080ece8284c2c707918",
+      "chunk_index": 4,
+      "chunk_count": 5
+    },
+    {
+      "file": "data/chunks/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage__chunk_005.md",
+      "tokens": 324,
+      "hash": "a37631051869dd5c5350f425d5ab101032c9a45659488b9b437afe609d680efa",
+      "chunk_index": 5,
+      "chunk_count": 5
+    },
+    {
+      "file": "data/chunks/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage__chunk_001.md",
+      "tokens": 505,
+      "hash": "a19dcee759c0fda38e984747f4b2b3097cb4da6968a154b3f7b6505f7a4381a3",
+      "chunk_index": 1,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage__chunk_002.md",
+      "tokens": 469,
+      "hash": "043eee9b753521b72adfdb06f1d67e4e1ac502e9d449ac9dab1f4d0ae179a913",
+      "chunk_index": 2,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage__chunk_003.md",
+      "tokens": 495,
+      "hash": "5f8a852145d0777f99b5f2005c96f7f8bc2ffa78317270b9c9abcc42a3abfd77",
+      "chunk_index": 3,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage__chunk_004.md",
+      "tokens": 517,
+      "hash": "892bbcbe8498494f0d08f08bf27abdbf1911ec42c162bccfdcb5b58f864a2222",
+      "chunk_index": 4,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage__chunk_005.md",
+      "tokens": 522,
+      "hash": "10b04cfb25ff0163dbffe1da88140d024ed1deb4c8522a0dd4c4de72efb451b2",
+      "chunk_index": 5,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage__chunk_006.md",
+      "tokens": 356,
+      "hash": "39f8e62b1a44d1c9c8989aff45f2fae1493bba34bf3aa779600c062d567e0ddb",
+      "chunk_index": 6,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage__chunk_001.md",
+      "tokens": 511,
+      "hash": "fb7f36e8adb068d7d23e993cb6639611b46b059194ad1978a4ee5eed42320dcf",
+      "chunk_index": 1,
+      "chunk_count": 5
+    },
+    {
+      "file": "data/chunks/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage__chunk_002.md",
+      "tokens": 494,
+      "hash": "ea7f30d539f3984ab1faed8ef0a04bb27340bc352e0a8b34b63b94dfc07af181",
+      "chunk_index": 2,
+      "chunk_count": 5
+    },
+    {
+      "file": "data/chunks/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage__chunk_003.md",
+      "tokens": 501,
+      "hash": "e286f403083056597b617b0af5675f9b38d7b9faf83d9667f74cd9438b7f5725",
+      "chunk_index": 3,
+      "chunk_count": 5
+    },
+    {
+      "file": "data/chunks/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage__chunk_004.md",
+      "tokens": 465,
+      "hash": "9c22f8a9af797d79607f60007c4d870c3b32143de393a971e7ce17357b49651b",
+      "chunk_index": 4,
+      "chunk_count": 5
+    },
+    {
+      "file": "data/chunks/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage__chunk_005.md",
+      "tokens": 520,
+      "hash": "9689204175882ead6825d1eaab897c7bda0453ddaf155f36fc52113ee111db29",
+      "chunk_index": 5,
+      "chunk_count": 5
+    },
+    {
+      "file": "data/chunks/360037965133-How-to-use-RSS-feeds-with-OptiSigns__chunk_001.md",
+      "tokens": 469,
+      "hash": "1fbe0f15f5b7ddc9ebaaf9496a5205f677884e9bb4c9626c0b8b0d33b1cdbc68",
+      "chunk_index": 1,
+      "chunk_count": 3
+    },
+    {
+      "file": "data/chunks/360037965133-How-to-use-RSS-feeds-with-OptiSigns__chunk_002.md",
+      "tokens": 448,
+      "hash": "0d8c2f36d2ed06f5d51b42cb2b0278f409a9a7fd82d57beae76c7f5f8d93656c",
+      "chunk_index": 2,
+      "chunk_count": 3
+    },
+    {
+      "file": "data/chunks/360037965133-How-to-use-RSS-feeds-with-OptiSigns__chunk_003.md",
+      "tokens": 311,
+      "hash": "f1888e0e20587edf148b12d0a72e47294f86b35f8bffb851360f8ade9a2b3630",
+      "chunk_index": 3,
+      "chunk_count": 3
+    },
+    {
+      "file": "data/chunks/360052088413-How-to-Use-the-Data-Studio-App__chunk_001.md",
+      "tokens": 500,
+      "hash": "aa6ed3e7a8eaa145ccd05a1e390690b3e6b9d078db2f60bac331d0971e52a4cf",
+      "chunk_index": 1,
+      "chunk_count": 3
+    },
+    {
+      "file": "data/chunks/360052088413-How-to-Use-the-Data-Studio-App__chunk_002.md",
+      "tokens": 499,
+      "hash": "d42d6a68b21ae359f25af01ba058e3b01dc80bae28d27cae8ec3f7786984bb08",
+      "chunk_index": 2,
+      "chunk_count": 3
+    },
+    {
+      "file": "data/chunks/360052088413-How-to-Use-the-Data-Studio-App__chunk_003.md",
+      "tokens": 283,
+      "hash": "aba24fce29c8d7bd2e60f07df6403125dc01324f359622f5d70fa3b4a80aef5f",
+      "chunk_index": 3,
+      "chunk_count": 3
+    },
+    {
+      "file": "data/chunks/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App__chunk_001.md",
+      "tokens": 232,
+      "hash": "233c6384c9baa3d9f7594718dadfff6b4db5c4aac7e52bc2dd626a05c2fce2c2",
+      "chunk_index": 1,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App__chunk_002.md",
+      "tokens": 515,
+      "hash": "b9edbc001f36dfefba0f792a561e9936080929f9d2a208b52aed99da0caa3f2b",
+      "chunk_index": 2,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App__chunk_003.md",
+      "tokens": 469,
+      "hash": "4fbb3b53d02c4fbead7ec24aa9926edac0667ef0d5da263ae0c15b20d97f85d4",
+      "chunk_index": 3,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App__chunk_004.md",
+      "tokens": 505,
+      "hash": "768f476639647fb80333953cd46474f231e2cdf4cef93da305b067809695de1b",
+      "chunk_index": 4,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App__chunk_005.md",
+      "tokens": 506,
+      "hash": "8ec42fdfb9c1ad7ca47f1d9110636ec7874697112b3a23d7ae927fb27e0090b8",
+      "chunk_index": 5,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App__chunk_006.md",
+      "tokens": 256,
+      "hash": "89929dae79a43ec9de0c458e6282d21f38794e4728ace08e87f77a6a6ad6412e",
+      "chunk_index": 6,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage__chunk_001.md",
+      "tokens": 509,
+      "hash": "ffbbe938a8a9ee1804f26cb8e24cee3810cbd2d395eef85efab0a14ed505268b",
+      "chunk_index": 1,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage__chunk_002.md",
+      "tokens": 479,
+      "hash": "158887a4aab64dabaef7d067436fb11a4e0ceff1cc1d6f97a94a9b1a40ed7b81",
+      "chunk_index": 2,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage__chunk_003.md",
+      "tokens": 504,
+      "hash": "2c2edbb05aebc6e0c1bc66d3696189507ab8509a12223c3a3a59db2ca072a942",
+      "chunk_index": 3,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage__chunk_004.md",
+      "tokens": 470,
+      "hash": "5865b39a5333c8e289cfc1fd641bb2bb238f84deee0a4c51e5ac68257f3ce8eb",
+      "chunk_index": 4,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage__chunk_005.md",
+      "tokens": 465,
+      "hash": "ceca9dccdb20062f39ce82f2da832375e0a618addd663205539c9e872c704bd6",
+      "chunk_index": 5,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage__chunk_006.md",
+      "tokens": 340,
+      "hash": "ede004e6669ab9451027077e3a98a609a6c7b9b77584279c5da81098986de0be",
+      "chunk_index": 6,
+      "chunk_count": 6
+    },
+    {
+      "file": "data/chunks/360055549854-Pre-configure-Wi-Fi-with-OptiSigns-devices__chunk_001.md",
+      "tokens": 289,
+      "hash": "1e3b141fc3208972f1a92e209cb7a1c193b1cdee8375b2450a24222a94709bb5",
+      "chunk_index": 1,
+      "chunk_count": 1
+    },
+    {
+      "file": "data/chunks/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device__chunk_001.md",
+      "tokens": 508,
+      "hash": "1915700241aceaa20162cc425304ef6f5f9c3a335549af0aa9fab0e69858c3aa",
+      "chunk_index": 1,
+      "chunk_count": 2
+    },
+    {
+      "file": "data/chunks/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device__chunk_002.md",
+      "tokens": 253,
+      "hash": "cb5fdf1a15d7c7890109ec3252d75c81cd65299651b2fe510d6bb3504443fb81",
+      "chunk_index": 2,
+      "chunk_count": 2
+    },
+    {
+      "file": "data/chunks/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV__chunk_001.md",
+      "tokens": 377,
+      "hash": "4944933a22ef850709e23ae6084c4f66f98fc707e88a26fb1aa45bfd7259e1b4",
+      "chunk_index": 1,
+      "chunk_count": 1
+    },
+    {
+      "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_001.md",
+      "tokens": 421,
+      "hash": "addc1a2339d21f2f329884b89776023e1c3f68d5572b7db2024498b5fd6f1269",
+      "chunk_index": 1,
+      "chunk_count": 8
+    },
+    {
+      "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_002.md",
+      "tokens": 518,
+      "hash": "1ed513326eb913cee73102d870dca741aa1659e4d0899330b109b77e99ba97c0",
+      "chunk_index": 2,
+      "chunk_count": 8
+    },
+    {
+      "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_003.md",
+      "tokens": 502,
+      "hash": "bd6441c81dd4450fcfe030ba9dd1ab604c11d675cec9b0b8052494313a8d27ed",
       "chunk_index": 3,
       "chunk_count": 8
     },
     {
-      "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_004.md",
-      "tokens": 501,
-      "hash": "f942becca5896895782a4c7fb06493832bad9cbd69f59ba90cc6ec9ebf6e0487",
+      "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_004.md",
+      "tokens": 505,
+      "hash": "82465a89498c36d3fcbc33789e59f44f180f7b6df8cc43d5cfe4f8454c8d04e6",
       "chunk_index": 4,
       "chunk_count": 8
     },
     {
-      "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_005.md",
-      "tokens": 505,
-      "hash": "a591c6d815b921b636d341e63dc61c0768d83383fa192e1d74765610b97caba2",
+      "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_005.md",
+      "tokens": 509,
+      "hash": "7084ae13468852d32e4306e73bd40a58c800ee2fc4d762048f7a0cee1b7fadbb",
       "chunk_index": 5,
       "chunk_count": 8
     },
     {
-      "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_006.md",
-      "tokens": 497,
-      "hash": "8aef716bb25e106dcd8b7614e1189d564c00a85fd5138db180d5f1a6a33da83b",
+      "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_006.md",
+      "tokens": 501,
+      "hash": "742aefbb639ec1e1e7a8071ba577b5c16b263a5aeef49601297540c09c400552",
       "chunk_index": 6,
       "chunk_count": 8
     },
     {
-      "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_007.md",
-      "tokens": 472,
-      "hash": "451f167e26543c46bb6c36e7466e9f9042c5c0a0cf1678670196a0a83ef9bb00",
+      "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_007.md",
+      "tokens": 476,
+      "hash": "f735212b3bc15cde34ae43611b609f3d5954e2be163912edf09d4618961accdd",
       "chunk_index": 7,
       "chunk_count": 8
     },
     {
-      "file": "data/chunks/how-to-use-the-optisigns-mobile-admin-app-30003143806099__chunk_008.md",
-      "tokens": 137,
-      "hash": "05fb6d27685983d19e050bab684f37c33710962d264bb30a94b2005417f57b46",
+      "file": "data/chunks/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App__chunk_008.md",
+      "tokens": 141,
+      "hash": "6ae430f32cb6e2ec85d3178381688a02070602511e5ff956f6a01252af038319",
       "chunk_index": 8,
       "chunk_count": 8
     },
     {
-      "file": "data/chunks/synchronized-playback-sync-play-feature-4412065189267__chunk_001.md",
-      "tokens": 500,
-      "hash": "571b6b4b449b0a13edcb7f34b59472bd8cff078f6ef687b62f0248e3f60a9d2c",
+      "file": "data/chunks/4412065189267-Synchronized-playback-Sync-Play-feature__chunk_001.md",
+      "tokens": 478,
+      "hash": "3cc29803697117c1f324cc14125acf855eae627a9134ae08a426cf85fbd4c8ff",
       "chunk_index": 1,
       "chunk_count": 2
     },
     {
-      "file": "data/chunks/synchronized-playback-sync-play-feature-4412065189267__chunk_002.md",
-      "tokens": 183,
-      "hash": "9267a004f6c8753256916d88567e18058f5ef257dca4c70c092052b186c7b39c",
+      "file": "data/chunks/4412065189267-Synchronized-playback-Sync-Play-feature__chunk_002.md",
+      "tokens": 135,
+      "hash": "f181c161c89c1885a5e15e4e2907db180574f756382e652f2134a3f145d6e8f6",
       "chunk_index": 2,
       "chunk_count": 2
     },
     {
-      "file": "data/chunks/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283__chunk_001.md",
-      "tokens": 517,
-      "hash": "195679e0fec91fea99477ddb1b756cea8037a71936dce7c3efd53d53a5c56f02",
+      "file": "data/chunks/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade__chunk_001.md",
+      "tokens": 437,
+      "hash": "77fc2b96b9602aca71e25885aa3d76cbe197b6ad310abecc7faa55a7ecef62c5",
       "chunk_index": 1,
       "chunk_count": 7
     },
     {
-      "file": "data/chunks/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283__chunk_002.md",
-      "tokens": 508,
-      "hash": "98d92a3e022037130f4d8159d874c94f1c570fa4e88dbf9d644b5ced7349f48d",
+      "file": "data/chunks/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade__chunk_002.md",
+      "tokens": 515,
+      "hash": "ace354687a5e4dab5743cf2805d49c68c042892f18ec5a7eeb01da68a9faa32c",
       "chunk_index": 2,
       "chunk_count": 7
     },
     {
-      "file": "data/chunks/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283__chunk_003.md",
-      "tokens": 309,
-      "hash": "d5213fd98c213152e5bc650535e6783b071db9b26164ee649ac16a3984b175c7",
+      "file": "data/chunks/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade__chunk_003.md",
+      "tokens": 316,
+      "hash": "bd6b0d2f675820bdc75f2c70f74f30cd6c247d770108a5679356749aa6854a67",
       "chunk_index": 3,
       "chunk_count": 7
     },
     {
-      "file": "data/chunks/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283__chunk_004.md",
-      "tokens": 335,
-      "hash": "4ebd2daab5bec38318cd9f0a76584a446a1cfd472ae16ef17c57ea101a595d29",
+      "file": "data/chunks/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade__chunk_004.md",
+      "tokens": 342,
+      "hash": "1fd2861e25d1b3d4e354380e38ca56bb4f5956b2c82ebe5e649a0b39785dc2d4",
       "chunk_index": 4,
       "chunk_count": 7
     },
     {
-      "file": "data/chunks/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283__chunk_005.md",
-      "tokens": 503,
-      "hash": "b82a710ec477c0b729345f815b78fd7278245d9c74b68983ea501633524b69ba",
+      "file": "data/chunks/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade__chunk_005.md",
+      "tokens": 510,
+      "hash": "c3dc63c59c7b693042024c0059211bc715cf8c4451a259619597a630c8681953",
       "chunk_index": 5,
       "chunk_count": 7
     },
     {
-      "file": "data/chunks/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283__chunk_006.md",
-      "tokens": 489,
-      "hash": "324e7d0534a4879aff78192beb04f7af5e505ae7d7bbe4e5c034e3242c9650c2",
+      "file": "data/chunks/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade__chunk_006.md",
+      "tokens": 496,
+      "hash": "97fd40ff96a14c46e8ed1ae75a56ba6c7cdc950c2d01fe9a0d4d331a364f2a8c",
       "chunk_index": 6,
       "chunk_count": 7
     },
     {
-      "file": "data/chunks/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade-11116333259283__chunk_007.md",
-      "tokens": 165,
-      "hash": "2498b3fcce0c0611ed997fbe3fb680fd410e49060413a2a0f1b84dd028f4e7fc",
+      "file": "data/chunks/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade__chunk_007.md",
+      "tokens": 172,
+      "hash": "dcdd5a30aa8fab5118f52e11f149577dd391d31f6b431ca27d158fd19dbf110b",
       "chunk_index": 7,
       "chunk_count": 7
     }

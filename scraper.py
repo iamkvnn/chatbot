@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import re
 from typing import Any
-from urllib.parse import urlparse, urlunparse
+from urllib.parse import unquote, urlparse, urlunparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -144,7 +144,13 @@ def clean_html_to_markdown(html: str) -> str:
 
 
 def article_filename(article: dict[str, Any]) -> str:
-    """Build a stable Markdown filename from article title and id."""
+    """Build a stable Markdown filename from the Zendesk article URL."""
+    article_url = str(article.get("html_url") or "")
+    url_slug = unquote(urlparse(article_url).path.strip("/").split("/")[-1])
+    safe_url_slug = re.sub(r"[^A-Za-z0-9._-]+", "-", url_slug).strip(".-_")
+    if safe_url_slug:
+        return f"{safe_url_slug[:140]}.md"
+
     title = str(article.get("title") or "").strip()
     article_id = str(article["id"])
     slug = slugify(title)[:90] or article_id
@@ -161,7 +167,6 @@ def build_article_markdown(article: dict[str, Any]) -> str:
             "",
             f"Article URL: {article.get('html_url') or ''}",
             f"Article ID: {article.get('id')}",
-            f"Updated At: {article.get('updated_at') or ''}",
             "",
             body_markdown,
             "",
@@ -249,6 +254,24 @@ def chunk_text(text: str) -> list[list[str]]:
     return chunks
 
 
+def article_body_for_chunking(text: str) -> str:
+    """Remove the article-level header before creating per-chunk files."""
+    lines = text.splitlines()
+    index = 0
+
+    if index < len(lines) and lines[index].startswith("# "):
+        index += 1
+    if index < len(lines) and not lines[index].strip():
+        index += 1
+
+    while index < len(lines) and re.match(r"^(Article URL|Article ID|Updated At):", lines[index]):
+        index += 1
+    if index < len(lines) and not lines[index].strip():
+        index += 1
+
+    return "\n".join(lines[index:]).strip()
+
+
 def chunk_article_file(article_path) -> list[dict[str, Any]]:
     """Write chunk Markdown files for one article and return chunk metadata."""
     text = article_path.read_text(encoding="utf-8")
@@ -256,7 +279,7 @@ def chunk_article_file(article_path) -> list[dict[str, Any]]:
     url_match = re.search(r"^Article URL: .+$", text, flags=re.MULTILINE)
     title_line = title_match.group(0) if title_match else f"# {article_path.stem}"
     url_line = url_match.group(0) if url_match else "Article URL: UNKNOWN"
-    chunks = chunk_text(text)
+    chunks = chunk_text(article_body_for_chunking(text))
 
     records: list[dict[str, Any]] = []
     for index, chunk_blocks in enumerate(chunks, start=1):

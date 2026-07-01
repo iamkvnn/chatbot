@@ -35,8 +35,6 @@ def upload_manifest_delta() -> dict[str, Any]:
         "updated": 0,
         "skipped": 0,
         "deleted_documents": 0,
-        "uploaded_files": 0,
-        "embedded_chunks": 0,
         "added_chunks": 0,
         "updated_chunks": 0,
         "skipped_chunks": 0,
@@ -64,7 +62,6 @@ def upload_manifest_delta() -> dict[str, Any]:
             "skipped_chunks": 0,
             "removed_chunks": 0,
             "deleted_documents": 0,
-            "uploaded_chunks": 0,
         }
 
         for remote_file, remote_chunk in previous_chunks.items():
@@ -91,11 +88,8 @@ def upload_manifest_delta() -> dict[str, Any]:
 
             logging.info("Uploading %s", chunk_path.name)
             upload_chunk_file(client, store_name, chunk_path, article, chunk)
-            article_counts["uploaded_chunks"] += 1
 
         counts["deleted_documents"] += article_counts["deleted_documents"]
-        counts["uploaded_files"] += article_counts["uploaded_chunks"]
-        counts["embedded_chunks"] += article_counts["uploaded_chunks"]
         counts["added_chunks"] += article_counts["added_chunks"]
         counts["updated_chunks"] += article_counts["updated_chunks"]
         counts["skipped_chunks"] += article_counts["skipped_chunks"]
@@ -107,7 +101,10 @@ def upload_manifest_delta() -> dict[str, Any]:
                 "title": article.get("title"),
                 "status": status,
                 "chunks": len(current_chunks),
-                **article_counts,
+                "added_chunks": article_counts["added_chunks"],
+                "updated_chunks": article_counts["updated_chunks"],
+                "skipped_chunks": article_counts["skipped_chunks"],
+                "removed_chunks": article_counts["removed_chunks"],
             }
         )
 
@@ -208,12 +205,8 @@ def upload_chunk_file(
             "mime_type": "text/markdown",
             "custom_metadata": [
                 {"key": "article_id", "string_value": str(article["id"])},
-                {"key": "article_url", "string_value": str(article.get("url") or "")},
-                {"key": "article_title", "string_value": str(article.get("title") or "")[:500]},
-                {"key": "chunk_hash", "string_value": str(chunk.get("hash") or "")},
                 {"key": "chunk_file", "string_value": str(chunk.get("file") or "")},
-                {"key": "chunk_index", "string_value": str(chunk.get("chunk_index") or "")},
-                {"key": "chunk_count", "string_value": str(chunk.get("chunk_count") or "")},
+                {"key": "chunk_hash", "string_value": str(chunk.get("hash") or "")},
             ],
             "chunking_config": {
                 "white_space_config": {
